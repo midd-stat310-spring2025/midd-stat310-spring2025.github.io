@@ -1,0 +1,65 @@
+---
+title: "Week 01"
+---
+
+::: {style="color: #F66D7A"}
+### Tuesday (09/12)
+:::
+
+**Topics**
+
+-   Welcome!
+-   Course logistics
+
+**Daily assignment**
+
+Review syllabus
+
+-   Complete the pre-course survey if you haven't already
+
+**Class activity**
+
+-   [Getting to know you survey](class/CA_00.pdf)
+
+------------------------------------------------------------------------
+
+::: {style="color: #F66D7A"}
+### Thursday (09/14)
+:::
+
+**Topics**
+
+-   Foundations of probability
+-   Counting
+
+**Daily assignment**
+
+To be completed and submitted to Canvas by 7:45am
+
+-   [Daily assignment](daily/DA_01.pdf)
+
+**Class activity**
+
+-   [Class activity](class/CA_01.pdf)
+
+------------------------------------------------------------------------
+
+::: {style="color: #F66D7A"}
+### Friday (09/15)
+:::
+
+**Topics**
+
+-   Set theory
+
+-   Axioms of probability
+
+**Daily assignment**
+
+To be completed and submitted to Canvas by 7:45am
+
+-   [Daily assignment](daily/DA_02.pdf)
+
+**Class activity**
+
+-   [Class activity](class/CA_02.pdf)

@@ -1,0 +1,59 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "MATH/STAT 310: Probability"
+  favicon: img/img.png
+  navbar:
+    logo: img/img.png
+    left:
+      - file: index.qmd
+        text: Home
+      - file: schedule.qmd
+        text: "Schedule"
+      - file: homework.qmd
+        text: "Homework"
+      - file: exam.qmd
+        text: "Exams"
+    right:
+      - icon: book-half
+        href: https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view
+      - icon: bar-chart-fill
+        href: https://middlebury.instructure.com/
+
+      
+  sidebar:
+    - title: "Schedule"
+      style: "docked"
+      contents:
+        - schedule.qmd
+        - weeks/week-01.qmd
+        - weeks/week-02.qmd
+        - weeks/week-03.qmd
+        - weeks/week-04.qmd
+        - weeks/week-05.qmd
+        - weeks/week-06.qmd
+        - weeks/week-07.qmd
+        - weeks/week-08.qmd
+        - weeks/week-09.qmd
+        - weeks/week-10.qmd
+        - weeks/week-11.qmd
+        - weeks/week-12.qmd
+        - weeks/week-13.qmd
+        
+  page-footer:
+    center: |
+      - ![Logo image](/img/middlebury.png){width=10%}
+
+format:
+  html:
+    theme: 
+      - united
+      - customs.scss
+    toc: false
+    page-layout: article
+    
+
+editor: visual
+
