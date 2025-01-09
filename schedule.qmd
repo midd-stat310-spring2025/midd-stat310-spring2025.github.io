@@ -5,7 +5,7 @@ format:
     toc: false
 ---
 
-A high-level overview of the semester's topics are presented here. Please select a week for a specific day's assignments and materials.
+A tentative high-level overview of the semester's topics are presented here. Topics are subject to change based on class progress. Please select a week for a specific day's assignments and materials.
 
 ### [Week 01](weeks/week-01.qmd)
 
@@ -13,7 +13,7 @@ A high-level overview of the semester's topics are presented here. Please select
 
 -   Probability axioms
 
-### [Week 02](weeks/week-02.qmd)
+### Week 02
 
 -   R and RStudio
 
@@ -21,13 +21,13 @@ A high-level overview of the semester's topics are presented here. Please select
 
 -   Independence of events
 
-### [Week 03](weeks/week-03.qmd)
+### Week 03
 
 -   Monty Hall
 
 -   Bernoulli and Binomial
 
-### [Week 04](weeks/week-04.qmd)
+### Week 04
 
 -   CDF
 
@@ -35,13 +35,13 @@ A high-level overview of the semester's topics are presented here. Please select
 
 -   Expected value
 
-### [Week 05](weeks/week-05.qmd)
+### Week 05
 
 -   Geometric and Negative Binomial Distributions
 
 -   Midterm 1
 
-### [Week 06](weeks/week-06.qmd)
+### Week 06
 
 -   Variance
 
@@ -49,7 +49,7 @@ A high-level overview of the semester's topics are presented here. Please select
 
 -   Continuous random variables
 
-### [Week 07](weeks/week-07.qmd)
+### Week 07
 
 -   Uniform distribution
 
@@ -57,7 +57,7 @@ A high-level overview of the semester's topics are presented here. Please select
 
 -   Exponential distribution
 
-### [Week 08](weeks/week-08.qmd)
+### Week 08
 
 -   Moments
 
@@ -65,32 +65,29 @@ A high-level overview of the semester's topics are presented here. Please select
 
 -   MGF
 
-### [Week 09](weeks/week-09.qmd)
+### Week 09
 
 -   Joint distributions
 -   Covariance and correlation
 
-### [Week 10](weeks/week-10.qmd)
+### Week 10
 
 -   Change of variable (2-D)
--   [**Midterm II**](/exam.qmd#sec-midterm2) (in-person and take-home)
 
-### Thanksgiving Break!
-
-### [Week 11](weeks/week-11.qmd)
+### Week 11
 
 -   Beta distribution
 -   Gamma distribution
 -   Order statistics
 -   Conditional expectation
 
-### [Week 12](weeks/week-12.qmd)
+### Week 12
 
 -   Conditional variance
 -   Law of Large Numbers
 -   Central Limit Theorem
 
-### [Week 13](weeks/week-13.qmd)
+### Week 13
 
 -   CLT in `R`
 -   Final exam

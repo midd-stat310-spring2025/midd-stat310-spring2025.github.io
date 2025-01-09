@@ -3,7 +3,7 @@ title: "Week 01"
 ---
 
 ::: {style="color: #F66D7A"}
-### Tuesday (09/12)
+### Monday (02/10)
 :::
 
 **Topics**
@@ -24,7 +24,7 @@ Review syllabus
 ------------------------------------------------------------------------
 
 ::: {style="color: #F66D7A"}
-### Thursday (09/14)
+### Wednesday (02/12)
 :::
 
 **Topics**
@@ -45,7 +45,7 @@ To be completed and submitted to Canvas by 7:45am
 ------------------------------------------------------------------------
 
 ::: {style="color: #F66D7A"}
-### Friday (09/15)
+### Friday (02/14)
 :::
 
 **Topics**
