@@ -11,83 +11,14 @@ A tentative high-level overview of the semester's topics are presented here. Top
 
 -   Welcome
 
+-   Set theory
+
 -   Probability axioms
 
 ### Week 02
 
+-   Counting Methods
+
 -   R and RStudio
 
--   Conditional probability
-
--   Independence of events
-
-### Week 03
-
--   Monty Hall
-
--   Bernoulli and Binomial
-
-### Week 04
-
--   CDF
-
--   Independence of RVs
-
--   Expected value
-
-### Week 05
-
--   Geometric and Negative Binomial Distributions
-
--   Midterm 1
-
-### Week 06
-
--   Variance
-
--   Poisson distribution
-
--   Continuous random variables
-
-### Week 07
-
--   Uniform distribution
-
--   Normal distribution
-
--   Exponential distribution
-
-### Week 08
-
--   Moments
-
--   Recap Taylor Series
-
--   MGF
-
-### Week 09
-
--   Joint distributions
--   Covariance and correlation
-
-### Week 10
-
--   Change of variable (2-D)
-
-### Week 11
-
--   Beta distribution
--   Gamma distribution
--   Order statistics
--   Conditional expectation
-
-### Week 12
-
--   Conditional variance
--   Law of Large Numbers
--   Central Limit Theorem
-
-### Week 13
-
--   CLT in `R`
--   Final exam
+-   Conditional probability, LoTP
