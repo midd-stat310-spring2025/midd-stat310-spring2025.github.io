@@ -7,7 +7,7 @@ Welcome to the website for Middlebury College's Spring 2025 MATH/STAT 310. On th
 
 ## Major Announcements
 
--   Welcome!
+-   Office hours start Tuesday 2/11
 
 ## Course Details
 
@@ -20,6 +20,6 @@ Meeting times: MWF 8:40-9:30am in WNS 105
 
 Office hours: MT 3-4pm, F 11am-12pm (outside my office)
 
-[Syllabus](310_syllabus.pdf) (most recent update: 02/03/25)
+[Syllabus](310_syllabus.pdf) (most recent update: 02/07/25)
 
 ## 

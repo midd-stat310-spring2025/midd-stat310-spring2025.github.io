@@ -13,13 +13,12 @@ title: "Week 01"
 
 **Daily assignment**
 
-Review syllabus
-
--   Complete the pre-course survey if you haven't already
+-   Review syllabus
+-   Complete the [pre-class survey](https://docs.google.com/forms/d/e/1FAIpQLScD7shTtq2_DGuVyQO-7mnpb5hVN53GphykmFPPj9dW8Bul3g/viewform?usp=sharing) if you haven't already
 
 **Class activity**
 
--   Getting to know you survey
+-   [Discussion questions](class/CA_00.pdf)
 
 ------------------------------------------------------------------------
 
@@ -29,14 +28,14 @@ Review syllabus
 
 **Topics**
 
--   Foundations of probability
--   Counting
+-   Foundations
+-   Set theory
 
 **Daily assignment**
 
 To be completed and submitted to Canvas by 7:45am
 
--   Daily assignment
+-   [Daily assignment](daily/DA_01.pdf)
 
 **Class material**
 
@@ -50,15 +49,13 @@ To be completed and submitted to Canvas by 7:45am
 
 **Topics**
 
--   Set theory
-
--   Axioms of probability
+-   Counting methods
 
 **Daily assignment**
 
 To be completed and submitted to Canvas by 7:45am
 
--   Daily assignment
+-   [Daily assignment](daily/DA_02.pdf)
 
 **Class material**
 

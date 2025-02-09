@@ -10,15 +10,11 @@ A tentative high-level overview of the semester's topics are presented here. Top
 ### [Week 01](weeks/week-01.qmd)
 
 -   Welcome
-
 -   Set theory
-
--   Probability axioms
+-   Counting Methods
 
 ### Week 02
 
--   Counting Methods
-
+-   Probability axioms
 -   R and RStudio
-
--   Conditional probability, LoTP
+-   Conditional probability, Bayes Rule, LoTP
