@@ -5,6 +5,5 @@ sidebar: false
 
 Note: problem sets will be updated with new questions following each class. Completed homework should be submitted to Canvas unless otherwise noted.
 
-### Homework 1
-
--   TBD
+-   [Problem Set 1](weeks/hw/310_hw1.pdf): covers material from 2/12-2/14
+    -   Due: 2/18 at 11:59pm
