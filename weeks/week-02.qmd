@@ -3,19 +3,37 @@ title: "Week 02"
 ---
 
 ::: {style="color: #F66D7A"}
-### Tuesday (09/19)
+### Monday (2/17)
 :::
 
 **Topics**
 
--   Introduction to R and RStudio
+-   Probability axioms
+
+**Daily assignment**
+
+To be completed and submitted to Canvas by 7:45am
+
+-   [Daily assignment](daily/DA_03.pdf)
+
+**Class activity**
+
+-   TBD
+
+------------------------------------------------------------------------
+
+::: {style="color: #F66D7A"}
+### Wednesday (2/19)
+:::
+
+**Topics**
 
 **Daily assignment**
 
 To be completed and submitted to Canvas by 7:45am
 
 -   Download R and RStudio if you do not already have them downloaded by following these [instructions](files/R_RStudio.pdf).
--   [Daily assignment](daily/DA_03.pdf)
+-   Daily assignment
     -   Video for [creating a new R Markdown document](https://middlebury.zoom.us/rec/share/P3yz_ijZA4gzX44fDgaLEnqqHuOkjvTTDo0HRX-cxUyuo7ObKGGCKQs2xKPyLaVy.qkjvzTJAbq7KjC8G?startTime=1694198782000%20Passcode:%20X%5ESuA=Q1)
     -   Video for [knitting a document](https://middlebury.zoom.us/rec/share/P3yz_ijZA4gzX44fDgaLEnqqHuOkjvTTDo0HRX-cxUyuo7ObKGGCKQs2xKPyLaVy.qkjvzTJAbq7KjC8G?startTime=1694199079000%20Passcode:%20X%5ESuA=Q1)
 
@@ -28,7 +46,7 @@ To be completed and submitted to Canvas by 7:45am
 ------------------------------------------------------------------------
 
 ::: {style="color: #F66D7A"}
-### Thursday (09/21)
+### Friday (2/21)
 :::
 
 **Topics**
@@ -41,31 +59,8 @@ To be completed and submitted to Canvas by 7:45am
 
 To be completed and submitted to Canvas by 7:45am
 
--   [Daily assignment](daily/DA_04.pdf)
+-   Daily assignment
 
 **Class activity**
 
--   [Class activity](class/CA_04.pdf)
-
-------------------------------------------------------------------------
-
-::: {style="color: #F66D7A"}
-### Friday (09/22)
-:::
-
-**Topics**
-
--   Independence
-
--   Conditional independence
-
-**Daily assignment**
-
-To be completed and submitted to Canvas by 7:45am
-
--   [Daily assignment](daily/DA_05.pdf)
-
-**Class activity**
-
--   [Case study](class/people_v_collins.pdf)
--   [Class activity](class/CA_05.pdf)
+-   Class activity

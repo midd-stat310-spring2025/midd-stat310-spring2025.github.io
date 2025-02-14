@@ -1,0 +1,31 @@
+---
+title: "Birthday problem"
+format: pdf
+---
+
+\vspace{-2cm}
+
+Suppose we have $k$ people in a room. Define event $A$ as the event at least two people in the room share the same birthday. What is $P(A)$?
+
+Assumptions:
+
+-   "same birthday" here means same month and day
+-   We don't have twins/triplets/etc.
+-   No one born on February 29 (leap year)
+-   Each day of the year is equally likely to be a birthday
+
+\clearpage
+
+```{r echo = F, warning=F, message=F}
+library(tidyverse)
+
+prob <- rep(NA, 60); prob[1] <- 0
+for(k in 2:60){
+  prob[k] <- 1 - prod((365 - k + 1):365)/365^k
+}
+data.frame(k = 1:60, probability = prob) |>
+  ggplot(aes(x = k, y = probability)) + 
+  geom_line() +
+  scale_x_continuous(n.breaks = 10) +
+  ggtitle("Probability of birthday match")
+```

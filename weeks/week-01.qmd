@@ -3,7 +3,7 @@ title: "Week 01"
 ---
 
 ::: {style="color: #F66D7A"}
-### Monday (02/10)
+### Monday (2/10)
 :::
 
 **Topics**
@@ -23,7 +23,7 @@ title: "Week 01"
 ------------------------------------------------------------------------
 
 ::: {style="color: #F66D7A"}
-### Wednesday (02/12)
+### Wednesday (2/12)
 :::
 
 **Topics**
@@ -39,12 +39,12 @@ To be completed and submitted to Canvas by 7:45am
 
 **Class material**
 
--   TBD
+-   None
 
 ------------------------------------------------------------------------
 
 ::: {style="color: #F66D7A"}
-### Friday (02/14)
+### Friday (2/14)
 :::
 
 **Topics**
@@ -59,4 +59,5 @@ To be completed and submitted to Canvas by 7:45am
 
 **Class material**
 
--   TBD
+-   Birthday problem handout ([blank](class/birthday_problem_plot.qmd) and filled-in version)
+-   [Practice problems](class/CA_02.pdf)
