@@ -74,7 +74,7 @@
     "href": "weeks/week-02.html",
     "title": "Week 02",
     "section": "",
-    "text": "Monday (2/17)\n\nTopics\n\nProbability axioms\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nTBD\n\n\n\nWednesday (2/19)\n\nTopics\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDownload R and RStudio if you do not already have them downloaded by following these instructions.\nDaily assignment\n\nVideo for creating a new R Markdown document\nVideo for knitting a document\n\n\nClass activity\n\nCovering some basics of coding in R\n\nCode-only version\n\nClass activity\n\n\n\nFriday (2/21)\n\nTopics\n\nConditional probability\nBayes rule\nLaw of Total Probability\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity"
+    "text": "Monday (2/17)\n\nTopics\n\nProbability axioms\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nTBD\n\n\n\nWednesday (2/19)\n\nTopics\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDownload R and RStudio if you do not already have them downloaded by following these instructions. Be sure to download BOTH R and RStudio (in that order)!\n\nVideo for first-time users\n\nDaily assignment\n\n\n\n\nClass activity\n\nCovering some basics of coding in R\n\nCode-only version\n\nClass activity\n\n\n\nFriday (2/21)\n\nTopics\n\nConditional probability\nBayes rule\nLaw of Total Probability\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity"
   },
   {
     "objectID": "weeks/week-02.html#option-2",
@@ -95,7 +95,7 @@
     "href": "homework.html",
     "title": "Homework",
     "section": "",
-    "text": "Note: problem sets will be updated with new questions following each class. Completed homework should be submitted to Canvas unless otherwise noted.\n\nProblem Set 1: covers material from 2/12-2/14\n\nDue: 2/18 at 11:59pm\nGood idea to read through Section 1.4 of textbook in entirety for examples!"
+    "text": "Note: problem sets will be updated with new questions following each class. Completed homework should be submitted to Canvas unless otherwise noted.\n\nProblem Set 1: covers material from 2/12-2/14\n\nDue: 2/18 at 11:59pm\nGood idea to read through Section 1.4 of textbook in entirety for examples!\n DA_04"
   },
   {
     "objectID": "index.html#major-announcements",
@@ -208,5 +208,47 @@
     "title": "Exams",
     "section": "Final exam",
     "text": "Final exam\n\nAn opportunity to celebrate all that you have learned this semester!!\n\nThe final exam will be in-person on the college-assigned date and time of Thursday, 12/14 from 2-5pm. in WNS 105 (our usual classroom).\nMaterial from the entire semester is fair game and the final is lightly cumulative, but there will be a heavy emphasis on content covered after the second midterm (Week 9 content onward).\nPractice problems are available here, with solutions provided on Canvas after our final class. Note that some of these problems are more difficult than I would expect you to be able to do on the final. Practicing on harder problems means you’ll be better prepared for the actual final!\n\nI will also be having office hours on Tuesday, 12/12 from 11:00am-12:00pm, then from 3:30-4:30pm.\n\nResources\n\nYou are allowed one, double-sided 8.5x11 cheat sheet.\n\nYou may write definitions, theorems, properties, distributions, and other “factual” type of information. You are not allowed to write any worked out examples or problems.\nThe cheat sheet will be submitted alongside your midterm.\n\nYou will be provided a “distribution sheet” that lists the PMFs/PDFs of the “common” distributions we have covered, along with their expected values and variances.\n\nI will share the distribution sheet with you on the final day of class so you won’t be surprised when you take the exam\n\nUpdate 12/11 ~5:00pm: added Multinomial distribution to sheet. Thanks Thomas for reminding me! Note that expectation and variance are not provided for it…\n\nFormulas for MGFs or CDFs will not be provided on this distribution sheet.\nYou are welcome to write the formulas for other distributions you have encountered in this course on your note sheet."
+  },
+  {
+    "objectID": "weeks/daily/installation_instructions.html",
+    "href": "weeks/daily/installation_instructions.html",
+    "title": "Installation instructions",
+    "section": "",
+    "text": "Please install R and RStudio (in this order). Instructions are provided below depending on if you have a Mac/Windows or Linux. Be sure to verify that your installation was successful (see last part of this page). Please come by office hours if you have trouble or would like guidance during the installation process!"
+  },
+  {
+    "objectID": "weeks/daily/installation_instructions.html#installing-r",
+    "href": "weeks/daily/installation_instructions.html#installing-r",
+    "title": "Installation instructions",
+    "section": "Installing R",
+    "text": "Installing R\n\nGo to the CRAN website and click on the appropriate link under “Download and Install R”. Then:\n\nWindows: click on the blue text that says “Install R for the first time”.\nmacOS: check your Mac OS system and if you have a chip (Apple icon -> About this Mac -> Overview)\n\nThen on the website, click the newest release that supports your current OS version. This will most likely be R-4.4.1-arm64.pkg or R-4.4.1-x86_64.pkg.\n\n\n\nA file will download, most likely to your Downloads folder. Run the file by clicking on it. Allow the app to make changes to your device if prompted.\nFollow the installation instructions, until you click on “Finish” to exit the installation setup. At this point, R should be successfully installed!"
+  },
+  {
+    "objectID": "weeks/daily/installation_instructions.html#installing-rstudio",
+    "href": "weeks/daily/installation_instructions.html#installing-rstudio",
+    "title": "Installation instructions",
+    "section": "Installing RStudio",
+    "text": "Installing RStudio\n\nGo to this Posit website and scroll down a little until you see two steps. We already did Step 1!\nUnder Step 2, click the blue Download RStudio Desktop button recommended for your computer\n\nmacOS users: double check you have an OS that is recent enough! If not, find an older version of RStudio suitable for you OS.\n\nRun the downloaded RStudio Executable file until you hit the “Finish” button. It may be the case that you don’t have to click anything at all.\nAfter RStudio finishes downloading, a window like this might pop up. If so, go ahead and drag the RStudio icon into the Applications folder."
+  },
+  {
+    "objectID": "weeks/daily/installation_instructions.html#installing-r-1",
+    "href": "weeks/daily/installation_instructions.html#installing-r-1",
+    "title": "Installation instructions",
+    "section": "Installing R",
+    "text": "Installing R\n\nFollow the instructions on for Steps 1 and 2 on this website."
+  },
+  {
+    "objectID": "weeks/daily/installation_instructions.html#installing-rstudio-1",
+    "href": "weeks/daily/installation_instructions.html#installing-rstudio-1",
+    "title": "Installation instructions",
+    "section": "Installing RStudio",
+    "text": "Installing RStudio\n\nGo to step 3 of the same website"
+  },
+  {
+    "objectID": "weeks/daily/DA_04.html",
+    "href": "weeks/daily/DA_04.html",
+    "title": "Daily Assignment 04",
+    "section": "",
+    "text": "What is the last line of code doing?\n\n\n\n\nAnswer:\n\nWhat are the differences between the two lines of code that both use the sample() function?\n\n\n\n\nAnswer:\n\nWhat is this line of coding?\n\n\n\n\nAnswer:\n\nWhat is this line of code doing?\n\n\n\n\nAnswer:\n\nOptional: any questions?\n\nAnswer:"
   }
 ]

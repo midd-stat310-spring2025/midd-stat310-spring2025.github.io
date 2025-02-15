@@ -1,5 +1,8 @@
 ---
 title: "Week 02"
+format:
+  html:
+    css: ../styles.css
 ---
 
 ::: {style="color: #F66D7A"}
@@ -32,16 +35,16 @@ To be completed and submitted to Canvas by 7:45am
 
 To be completed and submitted to Canvas by 7:45am
 
--   Download R and RStudio if you do not already have them downloaded by following these [instructions](files/R_RStudio.pdf).
+-   Download R and RStudio if you do not already have them downloaded by following these [instructions](daily/installation_instructions.qmd). Be sure to download BOTH R and RStudio (in that order)!
+    -   Video for first-time users
 -   Daily assignment
-    -   Video for [creating a new R Markdown document](https://middlebury.zoom.us/rec/share/P3yz_ijZA4gzX44fDgaLEnqqHuOkjvTTDo0HRX-cxUyuo7ObKGGCKQs2xKPyLaVy.qkjvzTJAbq7KjC8G?startTime=1694198782000%20Passcode:%20X%5ESuA=Q1)
-    -   Video for [knitting a document](https://middlebury.zoom.us/rec/share/P3yz_ijZA4gzX44fDgaLEnqqHuOkjvTTDo0HRX-cxUyuo7ObKGGCKQs2xKPyLaVy.qkjvzTJAbq7KjC8G?startTime=1694199079000%20Passcode:%20X%5ESuA=Q1)
+    -   {{< downloadthis weeks/daily/DA_04.Rmd dname="DA_04" label="DA_04" id=mtcars-btn >}}
 
 **Class activity**
 
 -   Covering some [basics of coding in `R`](files/R_intro.pdf)
     -   [Code-only version](files/R_intro_code.pdf)
--   [Class activity](class/CA_03.pdf)
+-   Class activity
 
 ------------------------------------------------------------------------
 

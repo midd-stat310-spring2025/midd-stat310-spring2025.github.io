@@ -1,0 +1,42 @@
+---
+title: "Daily Assignment 04"
+author: "Your name here"
+date: "2025-02-19"
+output: html_document
+---
+
+5. What is the last line of code doing?
+
+```{r}
+
+```
+
+**Answer:**
+
+6. What are the differences between the two lines of code that both use the `sample()` function?
+
+```{r}
+
+```
+
+**Answer:**
+
+7. What is this line of coding?
+
+```{r}
+
+```
+
+**Answer:**
+
+8. What is this line of code doing?
+
+```{r}
+
+```
+
+**Answer:**
+
+9. Optional: any questions?
+
+**Answer:**
