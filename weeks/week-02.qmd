@@ -1,8 +1,5 @@
 ---
 title: "Week 02"
-format:
-  html:
-    css: ../styles.css
 ---
 
 ::: {style="color: #F66D7A"}
@@ -31,19 +28,20 @@ To be completed and submitted to Canvas by 7:45am
 
 **Topics**
 
+-   R and RStudio
+
 **Daily assignment**
 
 To be completed and submitted to Canvas by 7:45am
 
--   Download R and RStudio if you do not already have them downloaded by following these [instructions](daily/installation_instructions.qmd). Be sure to download BOTH R and RStudio (in that order)!
-    -   Video for first-time users
--   Daily assignment
-    -   {{< downloadthis weeks/daily/DA_04.Rmd dname="DA_04" label="DA_04" id=mtcars-btn >}}
+-   If you do not already have R and RStudio downloaded, then follow these [instructions](daily/installation_instructions.qmd) to install. Be sure to install BOTH R and RStudio (in that order)!
+-   [Daily assignment](daily/DA_04.pdf)
+    -   `.Rmd` file for assignment: {{< downloadthis daily/DA_04.Rmd dname="DA_04" label="DA_04" id=mtcars-btn >}}
 
 **Class activity**
 
--   Covering some [basics of coding in `R`](files/R_intro.pdf)
-    -   [Code-only version](files/R_intro_code.pdf)
+-   Covering some basics of coding in `R`
+    -   Code-only version
 -   Class activity
 
 ------------------------------------------------------------------------

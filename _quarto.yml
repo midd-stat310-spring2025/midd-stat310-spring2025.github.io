@@ -40,6 +40,7 @@ format:
       - customs.scss
     toc: false
     page-layout: article
+    css: styles.css
     
 
 editor: visual

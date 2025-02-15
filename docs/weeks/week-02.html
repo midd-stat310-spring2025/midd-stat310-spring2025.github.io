@@ -40,6 +40,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/quarto-contrib/downloadthis-1.9.1/downloadthis.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -188,23 +189,31 @@ ul.task-list li input[type="checkbox"] {
 <h3 class="anchored" data-anchor-id="wednesday-219">Wednesday (2/19)</h3>
 </section>
 <p><strong>Topics</strong></p>
+<ul>
+<li>R and RStudio</li>
+</ul>
 <p><strong>Daily assignment</strong></p>
 <p>To be completed and submitted to Canvas by 7:45am</p>
 <ul>
-<li>Download R and RStudio if you do not already have them downloaded by following these <a href="../weeks/daily/installation_instructions.html">instructions</a>. Be sure to download BOTH R and RStudio (in that order)!
+<li>If you do not already have R and RStudio downloaded, then follow these <a href="../weeks/daily/installation_instructions.html">instructions</a> to install. Be sure to install BOTH R and RStudio (in that order)!</li>
+<li><a href="daily/DA_04.pdf">Daily assignment</a>
 <ul>
-<li>Video for first-time users</li>
-</ul></li>
-<li>Daily assignment
-<ul>
-<li></li>
+<li><code>.Rmd</code> file for assignment: <a href="#mtcars-btn" onclick="fetch('data:text/plain;base64,LS0tCnRpdGxlOiAiRGFpbHkgQXNzaWdubWVudCAwNCIKYXV0aG9yOiAiWW91ciBuYW1lIGhlcmUiCmRhdGU6ICIyMDI1LTAyLTE5IgpvdXRwdXQ6IGh0bWxfZG9jdW1lbnQKLS0tCgo1LiBXaGF0IGlzIHRoZSBsYXN0IGxpbmUgb2YgY29kZSBkb2luZz8KCmBgYHtyfQoKYGBgCgoqKkFuc3dlcjoqKgoKNi4gV2hhdCBhcmUgdGhlIGRpZmZlcmVuY2VzIGJldHdlZW4gdGhlIHR3byBsaW5lcyBvZiBjb2RlIHRoYXQgYm90aCB1c2UgdGhlIGBzYW1wbGUoKWAgZnVuY3Rpb24/CgpgYGB7cn0KCmBgYAoKKipBbnN3ZXI6KioKCjcuIFdoYXQgaXMgdGhpcyBsaW5lIG9mIGNvZGluZz8KCmBgYHtyfQoKYGBgCgoqKkFuc3dlcjoqKgoKOC4gV2hhdCBpcyB0aGlzIGxpbmUgb2YgY29kZSBkb2luZz8KCmBgYHtyfQoKYGBgCgoqKkFuc3dlcjoqKgoKOS4gT3B0aW9uYWw6IGFueSBxdWVzdGlvbnM/CgoqKkFuc3dlcjoqKgo=').then(res => res.blob()).then(blob => {
+      const downloadURL = window.URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      document.body.appendChild(a);
+      a.href = downloadURL;
+      a.download = 'DA_04.Rmd'; a.click();
+      window.URL.revokeObjectURL(downloadURL);
+      document.body.removeChild(a);
+        });"><button class="btn btn-default downloadthis  " id="mtcars-btn"><i class="bi bi-download"></i> DA_04 </button></a></li>
 </ul></li>
 </ul>
 <p><strong>Class activity</strong></p>
 <ul>
-<li>Covering some <a href="files/R_intro.pdf">basics of coding in <code>R</code></a>
+<li>Covering some basics of coding in <code>R</code>
 <ul>
-<li><a href="files/R_intro_code.pdf">Code-only version</a></li>
+<li>Code-only version</li>
 </ul></li>
 <li>Class activity</li>
 </ul>
