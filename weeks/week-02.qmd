@@ -18,7 +18,7 @@ To be completed and submitted to Canvas by 7:45am
 
 **Class activity**
 
--   TBD
+-   [Practice problems](class/CA_03.pdf)
 
 ------------------------------------------------------------------------
 
@@ -50,6 +50,8 @@ To be completed and submitted to Canvas by 7:45am
 ### Friday (2/21)
 :::
 
+Content through today is fair game for Quiz 1!
+
 **Topics**
 
 -   Conditional probability
@@ -60,7 +62,7 @@ To be completed and submitted to Canvas by 7:45am
 
 To be completed and submitted to Canvas by 7:45am
 
--   Daily assignment
+-   [Daily assignment](daily/DA_05.pdf) (note this video is longer, so plan accordingly)
 
 **Class activity**
 

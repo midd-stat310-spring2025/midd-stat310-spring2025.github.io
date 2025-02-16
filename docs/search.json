@@ -32,7 +32,7 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "A tentative high-level overview of the semester’s topics are presented here. Topics are subject to change based on class progress. Please select a week for a specific day’s assignments and materials.\n\nWeek 01\n\nWelcome\nSet theory\nCounting Methods\n\n\n\nWeek 02\n\nProbability axioms\nR and RStudio\nConditional probability, Bayes Rule, LoTP"
+    "text": "A tentative high-level overview of the semester’s topics are presented here. Topics are subject to change based on class progress. Please select a week for a specific day’s assignments and materials.\n\nWeek 01\n\nWelcome\nSet theory\nCounting Methods\n\n\n\nWeek 02\n\nProbability axioms\nR and RStudio\nConditional probability, Bayes Rule, LoTP\n\n\n\nWeek 03\n\nIndependence\nDiscrete random variables (Bernoulli, Binomial)\nMonty Hall"
   },
   {
     "objectID": "temp.html",
@@ -74,7 +74,7 @@
     "href": "weeks/week-02.html",
     "title": "Week 02",
     "section": "",
-    "text": "Monday (2/17)\n\nTopics\n\nProbability axioms\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nTBD\n\n\n\nWednesday (2/19)\n\nTopics\n\nR and RStudio\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nIf you do not already have R and RStudio downloaded, then follow these instructions to install. Be sure to install BOTH R and RStudio (in that order)!\nDaily assignment\n\n.Rmd file for assignment:  DA_04 \n\n\nClass activity\n\nCovering some basics of coding in R\n\nCode-only version\n\nClass activity\n\n\n\nFriday (2/21)\n\nTopics\n\nConditional probability\nBayes rule\nLaw of Total Probability\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity"
+    "text": "Monday (2/17)\n\nTopics\n\nProbability axioms\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nPractice problems\n\n\n\nWednesday (2/19)\n\nTopics\n\nR and RStudio\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nIf you do not already have R and RStudio downloaded, then follow these instructions to install. Be sure to install BOTH R and RStudio (in that order)!\nDaily assignment\n\n.Rmd file for assignment:  DA_04 \n\n\nClass activity\n\nCovering some basics of coding in R\n\nCode-only version\n\nClass activity\n\n\n\nFriday (2/21)\n\nContent through today is fair game for Quiz 1!\nTopics\n\nConditional probability\nBayes rule\nLaw of Total Probability\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment (note this video is longer, so plan accordingly)\n\nClass activity\n\nClass activity"
   },
   {
     "objectID": "weeks/week-02.html#option-2",
@@ -88,7 +88,7 @@
     "href": "weeks/week-03.html",
     "title": "Week 03",
     "section": "",
-    "text": "Tuesday (09/26)\n\nTopics\n\nMonty Hall and Gambler’s Ruin\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nThursday (09/28)\n\nClass on Zoom (link)!\nTopics\n\nRandom variables (discrete)\nPMF, Bernoulli, Binomial\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nN/A\n\n\n\nFriday (09/29)\n\nTopics\n\nConditional probability in R\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nfor loops and while loops in R demo\n\nExecuted code and output here\n\nClass activity"
+    "text": "Monday (02/24)\n\nTopics\n\nIndependence\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nTBD\n\n\n\nWednesday (02/26)\n\nTopics\n\nRandom variables (discrete)\nPMF, Bernoulli, Binomial\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nTBD\n\n\n\nFriday (09/29)\n\n\nQuiz this afternoon at 2:30pm!\n\nTopics\n\nMonty Hall\nConditional probability in R\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nNone!\n\nClass activity\n\nfor loops and while loops in R demo\n\nExecuted code and output here\n\nClass activity"
   },
   {
     "objectID": "homework.html",
@@ -102,7 +102,7 @@
     "href": "index.html#major-announcements",
     "title": "Probability",
     "section": "Major Announcements",
-    "text": "Major Announcements\n\nProblem Set 1 due Tuesday 11/18 at Midnight (see Homework tab)"
+    "text": "Major Announcements\n\nProblem Set 1 due Tuesday 2/18 at Midnight (see Homework tab)\nContent through end of this week is fair game for Quiz 1"
   },
   {
     "objectID": "weeks/week-04.html",
