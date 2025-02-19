@@ -74,7 +74,7 @@
     "href": "weeks/week-02.html",
     "title": "Week 02",
     "section": "",
-    "text": "Monday (2/17)\n\nTopics\n\nProbability axioms\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nPractice problems\n\n\n\nWednesday (2/19)\n\nTopics\n\nR and RStudio\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nIf you do not already have R and RStudio downloaded, then follow these instructions to install. Be sure to install BOTH R and RStudio (in that order)!\nDaily assignment\n\n.Rmd file for assignment:  DA_04 \n\n\nClass activity\n\nCovering some basics of coding in R\n\nCode-only version\n\nClass activity\n\n\n\nFriday (2/21)\n\nContent through today is fair game for Quiz 1!\nTopics\n\nConditional probability\nBayes rule\nLaw of Total Probability\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment (note this video is longer, so plan accordingly)\n\nClass activity\n\nClass activity"
+    "text": "Monday (2/17)\n\nTopics\n\nProbability axioms\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nPractice problems\n\n\n\nWednesday (2/19)\n\nTopics\n\nR and RStudio\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nIf you do not already have R and RStudio downloaded, then follow these instructions to install. Be sure to install BOTH R and RStudio (in that order)!\nDaily assignment\n\n.Rmd file for assignment:  DA_04 \n\n\nClass activity\n\nCovering some basics of coding in R\n\n.Rmd file:  intro_R \nFilled in version posted after class\n\nExtra problems and associated .Rmd file:  CA_04 \n\n\n\nFriday (2/21)\n\nContent through today is fair game for Quiz 1!\nTopics\n\nConditional probability\nBayes rule\nLaw of Total Probability\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment (note this video is longer, so plan accordingly)\n\nClass activity\n\nClass activity"
   },
   {
     "objectID": "weeks/week-02.html#option-2",
@@ -102,7 +102,7 @@
     "href": "index.html#major-announcements",
     "title": "Probability",
     "section": "Major Announcements",
-    "text": "Major Announcements\n\nProblem Set 1 due Tuesday 2/18 at Midnight (see Homework tab)\nContent through end of this week is fair game for Quiz 1"
+    "text": "Major Announcements\n\nContent through end of this week is fair game for Quiz 1!\n\nTime and place: Friday 2/28 from 2:30-3:30pm in WNS 101\nWill host an extra office hour or two next week\n\nMonday 2/24 3-4pm office hours cancelled and rescheduled to:\n\nRight after class Monday 9:30ish-10:45ish"
   },
   {
     "objectID": "weeks/week-04.html",
@@ -250,5 +250,68 @@
     "title": "Daily Assignment 04",
     "section": "",
     "text": "What is the last line of code doing?\n\n\n\n\nAnswer:\n\nWhat are the differences between the two lines of code that both use the sample() function?\n\n\n\n\nAnswer:\n\nWhat is this line of coding?\n\n\n\n\nAnswer:\n\nWhat is this line of code doing?\n\n\n\n\nAnswer:\n\nOptional: any questions?\n\nAnswer:"
+  },
+  {
+    "objectID": "weeks/class/intro_R_simulations.html",
+    "href": "weeks/class/intro_R_simulations.html",
+    "title": "Intro to R and Simulations",
+    "section": "",
+    "text": "R respects PEMDAS:\n\n\n\n\n\nBooleans/logicals can be formed with (in)equality symbols:\n\n\n\n\n\n\nStoring/saving values into variables is achieved by using the syntax <variable name> <- <value>. Note that the variable name cannot begin with a number! The result of a stored variable is not displayed to the user. Type out the variable name after storing to explicitly show the values.\n\n\n\n\n\n\nCreate vectors of values (i.e. a list of values) using the concatenate c() function:\n\n\n\nThe syntax a:b creates a sequence of integers from a to b.\n\n\n\nR is vectorized language, so it operates element-wise in vectors. Also, under the hood, booleans/logicals TRUE/FALSE are treated as 1/0:"
+  },
+  {
+    "objectID": "weeks/class/intro_R_simulations.html#functions",
+    "href": "weeks/class/intro_R_simulations.html#functions",
+    "title": "Intro to R and Simulations",
+    "section": "Functions",
+    "text": "Functions\nA lot of the commands we have been working with are functions. You can tell a command is a function if it has parentheses (e.g. sum() and c()). A function usually takes in some argument(s) as input and returns something back as output. We can write custom functions using the function function(). We need to specify the name of the function, what it expects as input, as well as what to output.\n\nBirthday problem, generalized\nSuppose a group of \\(k\\) people each choose a number randomly with replacement from a list of \\(n\\) distinct numbers. The probability of at least one match in the group is 1 minus the probability of no matches:\n\\[1 - \\binom{n}{k} \\frac{k!}{n^k}\\]\nWe can write this as a function in R:\n\n\n\nNote that the function name is prob_match, and the arguments/inputs are called n and k. The output is the probability of at least one match for the specified values of n and k. We can now use this function. For example, the probability of at least one match among 3 people choosing a number between 1 and 40 is:"
+  },
+  {
+    "objectID": "weeks/class/intro_R_simulations.html#for-looping",
+    "href": "weeks/class/intro_R_simulations.html#for-looping",
+    "title": "Intro to R and Simulations",
+    "section": "for looping",
+    "text": "for looping\nSuppose I want to obtain the probability of a match for \\(n = 40\\) distinct numbers among a range of \\(k = 2, \\ldots, 25\\) people. Using what’s called a “for loop” can help automate this process:"
+  },
+  {
+    "objectID": "weeks/class/intro_R_simulations.html#basic-plotting",
+    "href": "weeks/class/intro_R_simulations.html#basic-plotting",
+    "title": "Intro to R and Simulations",
+    "section": "Basic plotting",
+    "text": "Basic plotting\nWe can plot one variable against another (e.g. input and output of a function) using the plot() function. The first argument is the x-axis variable (e.g. input), and the second argument is the y-axis variable (e.g. output).\nFor example, we will plot probabilities of each least one match we obtained above:"
+  },
+  {
+    "objectID": "weeks/class/intro_R_simulations.html#sampling-and-simulating",
+    "href": "weeks/class/intro_R_simulations.html#sampling-and-simulating",
+    "title": "Intro to R and Simulations",
+    "section": "Sampling and simulating",
+    "text": "Sampling and simulating\nThe sample() function generates random values from a pool of values contained in a specific vector. You can twist many knobs to get sampling with or without replacement, uneven probabilities, and different sized samples."
+  },
+  {
+    "objectID": "weeks/class/intro_R_simulations.html#approximating-probabilities",
+    "href": "weeks/class/intro_R_simulations.html#approximating-probabilities",
+    "title": "Intro to R and Simulations",
+    "section": "Approximating probabilities",
+    "text": "Approximating probabilities\nIn the following, simulation flipping a fair coin once:\n\n\n\nWe can approximate probabilities by counting up repeatedly simulating an experiment, counting up how many times a favorable outcome occurred, and dividing by the total number of experiments we did. This is easily done using the replicate() function:"
+  },
+  {
+    "objectID": "weeks/class/CA_04_solns.html",
+    "href": "weeks/class/CA_04_solns.html",
+    "title": "Class Activity 04",
+    "section": "",
+    "text": "n <- 5\nsum(sample(1:n, size = n, replace = F) == 1:n)\n\n[1] 2\n\n\n\n\n\n\nmean(replicate(1000,sum(sample(1:n, size = n, replace = F) == 1:n) > 0))\n\n[1] 0.629\n\n\n\n\n\n\nprob_match <- function(n, B){\n  mean(replicate(B, sum(sample(1:n, size = n, replace = F) == 1:n) > 0))\n}\n\n\n\n\n\nn_vec <- 2:50\np <- rep(NA, length(n_vec))\nfor(i in 1:length(n_vec)){\n  p[i] <- prob_match(n_vec[i], 1000) \n}\n\n\n\n\n\nplot(n_vec, p)\nabline(h = 1 - exp(-1))"
+  },
+  {
+    "objectID": "weeks/class/CA_04_solns.html#problem-2",
+    "href": "weeks/class/CA_04_solns.html#problem-2",
+    "title": "Class Activity 04",
+    "section": "Problem 2",
+    "text": "Problem 2\n\nPart a\n\nk <- 25\n1 - (364/365)^(k-1)\n\n[1] 0.06372277\n\n\n\n\nPart b\n\nB <- 10000\nsum(replicate(B, sum(sample(1:365, size = k - 1, replace = T) == 1) >= 1))/B\n\n[1] 0.0625\n\n\n\n\nPart c\nType here!"
+  },
+  {
+    "objectID": "weeks/class/CA_04.html#problem-2",
+    "href": "weeks/class/CA_04.html#problem-2",
+    "title": "Class Activity 04",
+    "section": "Problem 2",
+    "text": "Problem 2\n\nPart a\n\n\n\n\n\nPart b\n\n\n\n\n\nPart c\nType here!"
   }
 ]

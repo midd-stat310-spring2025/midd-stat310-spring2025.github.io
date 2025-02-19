@@ -41,8 +41,9 @@ To be completed and submitted to Canvas by 7:45am
 **Class activity**
 
 -   Covering some basics of coding in `R`
-    -   Code-only version
--   Class activity
+    -   `.Rmd` file: {{< downloadthis class/intro_R_simulations.Rmd dname="intro_R" label="intro_R" id=mtcars-btn >}}
+    -   Filled in version posted after class
+-   [Extra problems](class/CA_04.pdf) and associated `.Rmd` file: {{< downloadthis class/CA_04.Rmd dname="CA_04" label="CA_04" id=mtcars-btn >}}
 
 ------------------------------------------------------------------------
 

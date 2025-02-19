@@ -1,0 +1,68 @@
+---
+title: "Class Activity 04"
+author: "Solutions"
+date: "2025-02-18"
+output: pdf_document
+editor_options: 
+  chunk_output_type: console
+---
+
+## Problem 1
+
+### Part a
+
+```{r}
+n <- 5
+sum(sample(1:n, size = n, replace = F) == 1:n)
+```
+
+### Part b
+
+```{r}
+mean(replicate(1000,sum(sample(1:n, size = n, replace = F) == 1:n) > 0))
+```
+
+### Part c
+
+```{r}
+prob_match <- function(n, B){
+  mean(replicate(B, sum(sample(1:n, size = n, replace = F) == 1:n) > 0))
+}
+```
+
+### Part d
+
+```{r}
+n_vec <- 2:50
+p <- rep(NA, length(n_vec))
+for(i in 1:length(n_vec)){
+  p[i] <- prob_match(n_vec[i], 1000) 
+}
+```
+
+### Part e
+
+```{r}
+plot(n_vec, p)
+abline(h = 1 - exp(-1))
+```
+
+## Problem 2
+
+### Part a
+
+```{r}
+k <- 25
+1 - (364/365)^(k-1)
+```
+
+### Part b
+
+```{r}
+B <- 10000
+sum(replicate(B, sum(sample(1:365, size = k - 1, replace = T) == 1) >= 1))/B
+```
+
+### Part c
+
+Type here!

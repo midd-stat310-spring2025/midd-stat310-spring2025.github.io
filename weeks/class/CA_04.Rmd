@@ -1,0 +1,63 @@
+---
+title: "Class Activity 04"
+author: "Your name"
+date: "2025-02-19"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+## Problem 1
+
+### Part a
+
+```{r}
+
+
+```
+
+### Part b
+
+```{r}
+
+
+```
+
+### Part c
+
+```{r}
+
+
+```
+
+### Part d
+
+```{r}
+
+```
+
+### Part e
+
+```{r}
+
+```
+
+## Problem 2
+
+### Part a
+
+```{r}
+
+
+```
+
+### Part b
+
+```{r}
+
+
+```
+
+### Part c
+
+Type here!
