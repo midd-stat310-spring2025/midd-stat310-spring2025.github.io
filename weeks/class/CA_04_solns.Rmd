@@ -1,7 +1,7 @@
 ---
 title: "Class Activity 04"
 author: "Solutions"
-date: "2025-02-18"
+date: "2025-02-19"
 output: pdf_document
 editor_options: 
   chunk_output_type: console

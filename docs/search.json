@@ -95,7 +95,7 @@
     "href": "homework.html",
     "title": "Homework",
     "section": "",
-    "text": "Note: problem sets will be updated with new questions following each class. Completed homework should be submitted to Canvas unless otherwise noted.\n\nProblem Set 1: covers material from 2/12-2/14\n\nDue: 2/18 at 11:59pm\nGood idea to read through Section 1.4 of textbook in entirety for examples!\n\nProblem Set 2: covers material from 2/17-2/21"
+    "text": "Note: problem sets will be updated with new questions following each class. Completed homework should be submitted to Canvas unless otherwise noted.\n\nProblem Set 1: covers material from 2/12-2/14\n\nDue: 2/18 at 11:59pm\nGood idea to read through Section 1.4 of textbook in entirety for examples!\n\nProblem Set 2: covers material from 2/17-2/21\n\nDue 2/25 at 11:59pm\n.Rmd file for Wednesday problems:  hw2_R \nPlease submit both your written answers and the knitted HTML! You can do this by uploading several files during your Canvas submission, or doing two separate submissions."
   },
   {
     "objectID": "index.html#major-announcements",
@@ -298,14 +298,14 @@
     "href": "weeks/class/CA_04_solns.html",
     "title": "Class Activity 04",
     "section": "",
-    "text": "n <- 5\nsum(sample(1:n, size = n, replace = F) == 1:n)\n\n[1] 2\n\n\n\n\n\n\nmean(replicate(1000,sum(sample(1:n, size = n, replace = F) == 1:n) > 0))\n\n[1] 0.629\n\n\n\n\n\n\nprob_match <- function(n, B){\n  mean(replicate(B, sum(sample(1:n, size = n, replace = F) == 1:n) > 0))\n}\n\n\n\n\n\nn_vec <- 2:50\np <- rep(NA, length(n_vec))\nfor(i in 1:length(n_vec)){\n  p[i] <- prob_match(n_vec[i], 1000) \n}\n\n\n\n\n\nplot(n_vec, p)\nabline(h = 1 - exp(-1))"
+    "text": "n <- 5\nsum(sample(1:n, size = n, replace = F) == 1:n)\n\n[1] 1\n\n\n\n\n\n\nmean(replicate(1000,sum(sample(1:n, size = n, replace = F) == 1:n) > 0))\n\n[1] 0.655\n\n\n\n\n\n\nprob_match <- function(n, B){\n  mean(replicate(B, sum(sample(1:n, size = n, replace = F) == 1:n) > 0))\n}\n\n\n\n\n\nn_vec <- 2:50\np <- rep(NA, length(n_vec))\nfor(i in 1:length(n_vec)){\n  p[i] <- prob_match(n_vec[i], 1000) \n}\n\n\n\n\n\nplot(n_vec, p)\nabline(h = 1 - exp(-1))"
   },
   {
     "objectID": "weeks/class/CA_04_solns.html#problem-2",
     "href": "weeks/class/CA_04_solns.html#problem-2",
     "title": "Class Activity 04",
     "section": "Problem 2",
-    "text": "Problem 2\n\nPart a\n\nk <- 25\n1 - (364/365)^(k-1)\n\n[1] 0.06372277\n\n\n\n\nPart b\n\nB <- 10000\nsum(replicate(B, sum(sample(1:365, size = k - 1, replace = T) == 1) >= 1))/B\n\n[1] 0.0625\n\n\n\n\nPart c\nType here!"
+    "text": "Problem 2\n\nPart a\n\nk <- 25\n1 - (364/365)^(k-1)\n\n[1] 0.06372277\n\n\n\n\nPart b\n\nB <- 10000\nsum(replicate(B, sum(sample(1:365, size = k - 1, replace = T) == 1) >= 1))/B\n\n[1] 0.0656\n\n\n\n\nPart c\nType here!"
   },
   {
     "objectID": "weeks/class/CA_04.html#problem-2",
@@ -313,5 +313,26 @@
     "title": "Class Activity 04",
     "section": "Problem 2",
     "text": "Problem 2\n\nPart a\n\n\n\n\n\nPart b\n\n\n\n\n\nPart c\nType here!"
+  },
+  {
+    "objectID": "weeks/hw/310_hw2_R.html",
+    "href": "weeks/hw/310_hw2_R.html",
+    "title": "Problem Set 2: R problems",
+    "section": "",
+    "text": "Don’t forget to change the author name in the YAML above!"
+  },
+  {
+    "objectID": "weeks/hw/310_hw2_R.html#problem-4",
+    "href": "weeks/hw/310_hw2_R.html#problem-4",
+    "title": "Problem Set 2: R problems",
+    "section": "Problem 4",
+    "text": "Problem 4\n\nPart a\nEvaluate your theoretical probability here:\n\n\n\n\n\nPart b\nEstimate the probability via simulation here:\n\n\n\n\n\nPart c\nAnswer:"
+  },
+  {
+    "objectID": "weeks/hw/310_hw2_R.html#problem-5",
+    "href": "weeks/hw/310_hw2_R.html#problem-5",
+    "title": "Problem Set 2: R problems",
+    "section": "Problem 5",
+    "text": "Problem 5\n\nPart a\nEvaluate your theoretical probability here:\n\n\n\n\n\nPart b\nWrite your function here:\n\n\n\n\n\nPart c\nVerify your theoretical probability here:"
   }
 ]

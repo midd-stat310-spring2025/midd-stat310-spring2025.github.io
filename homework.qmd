@@ -9,3 +9,6 @@ Note: problem sets will be updated with new questions following each class. Comp
     -   Due: 2/18 at 11:59pm
     -   Good idea to read through Section 1.4 of textbook in entirety for examples!
 -   [Problem Set 2](weeks/hw/310_hw2.pdf): covers material from 2/17-2/21
+    -   Due 2/25 at 11:59pm
+    -   `.Rmd` file for Wednesday problems: {{< downloadthis weeks/hw/310_hw2_R.Rmd dname="310_hw2_R" label="hw2_R" id=mtcars-btn >}}
+    -   Please submit both your written answers and the knitted HTML! You can do this by uploading several files during your Canvas submission, or doing two separate submissions.

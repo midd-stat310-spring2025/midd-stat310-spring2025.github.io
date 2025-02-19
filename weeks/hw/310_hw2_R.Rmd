@@ -1,0 +1,62 @@
+---
+title: "Problem Set 2: R problems"
+author: "Your name here"
+date: "2025-02-25"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+Don't forget to change the author name in the YAML above!
+
+## Problem 4
+
+### Part a
+
+Evaluate your theoretical probability here:
+
+```{r}
+
+```
+
+### Part b
+
+Estimate the probability via simulation here:
+
+
+```{r}
+
+```
+
+
+### Part c
+
+**Answer:**
+
+## Problem 5
+
+### Part a
+
+Evaluate your theoretical probability here:
+
+```{r}
+
+```
+
+### Part b
+
+Write your function here:
+
+```{r}
+
+```
+
+### Part c
+
+Verify your theoretical probability here:
+
+```{r}
+
+```
+
+
