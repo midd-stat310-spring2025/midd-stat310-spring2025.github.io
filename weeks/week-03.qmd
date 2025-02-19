@@ -8,13 +8,14 @@ title: "Week 03"
 
 **Topics**
 
+-   Conditional probabilities are probabilities
 -   Independence
 
 **Daily assignment**
 
 To be completed and submitted to Canvas by 7:45am
 
--   Daily assignment
+-   [Daily assignment](daily/DA_06.pdf)
 
 **Class activity**
 
