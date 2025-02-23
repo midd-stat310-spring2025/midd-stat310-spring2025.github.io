@@ -3,7 +3,7 @@ title: "Week 04"
 ---
 
 ::: {style="color: #F66D7A"}
-### Tuesday (10/03)
+### Monday (3/03)
 :::
 
 **Topics**
@@ -15,53 +15,50 @@ title: "Week 04"
 
 To be completed and submitted to Canvas by 7:45am
 
--   [Daily assignment](daily/DA_09.pdf)
+-   Daily assignment
 
 **Class activity**
 
--   [Class activity](class/CA_09.pdf)
+-   Class activity
 
 ------------------------------------------------------------------------
 
 ::: {style="color: #F66D7A"}
-### Thursday (10/05)
+### Wednesday (3/05)
 :::
 
 **Topics**
 
 -   Functions of RVs
--   Independence of RVs
 -   RVs in `R`
 
 **Daily assignment**
 
 To be completed and submitted to Canvas by 7:45am
 
--   [Daily assignment](daily/DA_10.pdf)
+-   Daily assignment
 
 **Class activity**
 
--   [Class activity](class/CA_10.pdf)
+-   Class activity
 
 ------------------------------------------------------------------------
 
 ::: {style="color: #F66D7A"}
-### Friday (10/06)
+### Friday (3/07)
 :::
-
-***Content through today is fair game for Midterm 1***
 
 **Topics**
 
--   Expected value
--   LOTUS
+-   Joint dist of discrete RVs
+-   Independence of RVs
 
 **Daily assignment**
 
 To be completed and submitted to Canvas by 7:45am
 
--   [Daily assignment](daily/DA_11.pdf)
+-   Daily assignment
 
 **Class activity**
 
--   [Class activity](class/CA_11.pdf)
+-   Class activity

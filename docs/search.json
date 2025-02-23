@@ -88,7 +88,7 @@
     "href": "weeks/week-03.html",
     "title": "Week 03",
     "section": "",
-    "text": "Monday (02/24)\n\nTopics\n\nConditional probabilities are probabilities\nIndependence\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nTBD\n\n\n\nWednesday (02/26)\n\nTopics\n\nRandom variables (discrete)\nPMF, Bernoulli, Binomial\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nTBD\n\n\n\nFriday (09/29)\n\n\nQuiz this afternoon at 2:30pm!\n\nTopics\n\nMonty Hall\nConditional probability in R\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nNone!\n\nClass activity\n\nfor loops and while loops in R demo\n\nExecuted code and output here\n\nClass activity"
+    "text": "Monday (02/24)\n\nTopics\n\nConditional probabilities are probabilities\nIndependence\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nPractice problems\n\n\n\nWednesday (02/26)\n\nTopics\n\nRandom variables (discrete)\nPMF, Bernoulli, Binomial\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nTBD\n\n\n\nFriday (09/29)\n\n\nQuiz this afternoon at 2:30pm!\n\nTopics\n\nMonty Hall\nConditional probability in R\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nNone!\n\nClass activity\n\nfor loops and while loops in R demo\n\nExecuted code and output here\n\nClass activity"
   },
   {
     "objectID": "homework.html",
@@ -109,14 +109,14 @@
     "href": "weeks/week-04.html",
     "title": "Week 04",
     "section": "",
-    "text": "Tuesday (10/03)\n\nTopics\n\nMore discrete RV’s\nCDF\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nThursday (10/05)\n\nTopics\n\nFunctions of RVs\nIndependence of RVs\nRVs in R\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nFriday (10/06)\n\nContent through today is fair game for Midterm 1\nTopics\n\nExpected value\nLOTUS\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity"
+    "text": "Monday (3/03)\n\nTopics\n\nMore discrete RV’s\nCDF\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nWednesday (3/05)\n\nTopics\n\nFunctions of RVs\nRVs in R\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nFriday (3/07)\n\nTopics\n\nJoint dist of discrete RVs\nIndependence of RVs\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity"
   },
   {
     "objectID": "weeks/week-05.html",
     "href": "weeks/week-05.html",
     "title": "Week 05",
     "section": "",
-    "text": "Tuesday (10/10)\n\nTopics\n\nGeometric and Negative Binomial Distributions\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nThursday (10/12)\n\nMIDTERM 1 from 6-8pm in LIB 201\nTopics\n\nIndicator variables\nFundamental Bridge\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nFriday (10/06)\n\nFall break! No class!"
+    "text": "Tuesday (10/10)\n\nTopics\n\nExpected value\nLOTUS\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nThursday (10/12)\n\nMIDTERM 1 from 6-8pm in LIB 201\nTopics\n\nGeometric and Negative Binomial Distributions\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nFriday (10/06)\n\nTopics:\n\nIndicator variables\nFundamental Bridge"
   },
   {
     "objectID": "exam.html",
@@ -334,5 +334,12 @@
     "title": "Problem Set 2: R problems",
     "section": "Problem 5",
     "text": "Problem 5\n\nPart a\nEvaluate your theoretical probability here:\n\n\n\n\n\nPart b\nWrite your function here:\n\n\n\n\n\nPart c\nVerify your theoretical probability here:"
+  },
+  {
+    "objectID": "assessments/exam.html",
+    "href": "assessments/exam.html",
+    "title": "Assessments",
+    "section": "",
+    "text": "Friday, 2/28 from 2:30-3:30pm in WNS 101.\n\nContent through end of Week 2 is fair game (but no coding will be on the quiz)\nNo note sheets allowed\nStudy tips:\n\nReview notes and homework, do the extra practice problems associated with each class\nReally ask yourself if you understand each step of a solution (this is humbling, but oh so important)\nSeek assistance after trying problems on your own. Part of the battle is learning for yourself how to translate problem set-up into mathematical notation.\n\nExtra practice problems here (solutions posted sometime early Thursday)"
   }
 ]

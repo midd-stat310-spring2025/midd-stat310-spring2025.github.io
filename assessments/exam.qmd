@@ -1,0 +1,23 @@
+---
+title: "Assessments"
+sidebar: false
+toc: true
+---
+
+## **Quiz 1**
+
+Friday, 2/28 from 2:30-3:30pm in WNS 101.
+
+-   Content through end of Week 2 is fair game (but no coding will be on the quiz)
+
+-   No note sheets allowed
+
+-   Study tips:
+
+    -   Review notes and homework, do the extra practice problems associated with each class
+
+    -   Really ask yourself if you understand each step of a solution (this is humbling, but oh so important)
+
+    -   Seek assistance *after* trying problems on your own. Part of the battle is learning for yourself how to translate problem set-up into mathematical notation.
+
+-   Extra practice problems [here](quiz1_practice_probs.pdf) (solutions posted sometime early Thursday)

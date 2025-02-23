@@ -8,7 +8,8 @@ title: "Week 05"
 
 **Topics**
 
--   Geometric and Negative Binomial Distributions
+-   Expected value
+-   LOTUS
 
 **Daily assignment**
 
@@ -30,8 +31,7 @@ To be completed and submitted to Canvas by 7:45am
 
 **Topics**
 
--   Indicator variables
--   Fundamental Bridge
+-   Geometric and Negative Binomial Distributions
 
 **Daily assignment**
 
@@ -49,4 +49,7 @@ To be completed and submitted to Canvas by 7:45am
 ### Friday (10/06)
 :::
 
-***Fall break! No class!***
+Topics:
+
+-   Indicator variables
+-   Fundamental Bridge
