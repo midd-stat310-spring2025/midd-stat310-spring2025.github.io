@@ -56,7 +56,7 @@ To be completed and submitted to Canvas by 7:45am
 **Topics**
 
 -   Monty Hall
--   Conditional probability in `R`
+-   First-step analysis
 
 **Daily assignment**
 
@@ -66,6 +66,4 @@ To be completed and submitted to Canvas by 7:45am
 
 **Class activity**
 
--   `for` loops and `while` loops in `R` demo
-    -   Executed code and output here
 -   Class activity
