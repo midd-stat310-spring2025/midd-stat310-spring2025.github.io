@@ -21,6 +21,12 @@ A tentative high-level overview of the semester's topics are presented here. Top
 
 ### [Week 03](weeks/week-03.qmd)
 
--   Independence
+-   Independence of events
 -   Discrete random variables (Bernoulli, Binomial)
 -   Monty Hall
+
+### [Week 04](weeks/week-04.qmd)
+
+-   Hypergeometric
+-   Function of RVs
+-   Independence of RVs

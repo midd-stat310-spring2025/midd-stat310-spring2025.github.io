@@ -29,7 +29,7 @@ To be completed and submitted to Canvas by 7:45am
 
 **Topics**
 
--   Functions of RVs
+-   Joint PMF, functions of RVs
 -   RVs in `R`
 
 **Daily assignment**
@@ -50,7 +50,6 @@ To be completed and submitted to Canvas by 7:45am
 
 **Topics**
 
--   Joint dist of discrete RVs
 -   Independence of RVs
 
 **Daily assignment**

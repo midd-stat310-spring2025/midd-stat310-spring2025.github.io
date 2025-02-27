@@ -32,7 +32,7 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "A tentative high-level overview of the semester’s topics are presented here. Topics are subject to change based on class progress. Please select a week for a specific day’s assignments and materials.\n\nWeek 01\n\nWelcome\nSet theory\nCounting Methods\n\n\n\nWeek 02\n\nProbability axioms\nR and RStudio\nConditional probability, Bayes Rule, LoTP\n\n\n\nWeek 03\n\nIndependence\nDiscrete random variables (Bernoulli, Binomial)\nMonty Hall"
+    "text": "A tentative high-level overview of the semester’s topics are presented here. Topics are subject to change based on class progress. Please select a week for a specific day’s assignments and materials.\n\nWeek 01\n\nWelcome\nSet theory\nCounting Methods\n\n\n\nWeek 02\n\nProbability axioms\nR and RStudio\nConditional probability, Bayes Rule, LoTP\n\n\n\nWeek 03\n\nIndependence of events\nDiscrete random variables (Bernoulli, Binomial)\nMonty Hall\n\n\n\nWeek 04\n\nHypergeometric\nFunction of RVs\nIndependence of RVs"
   },
   {
     "objectID": "temp.html",
@@ -88,7 +88,7 @@
     "href": "weeks/week-03.html",
     "title": "Week 03",
     "section": "",
-    "text": "Monday (02/24)\n\nTopics\n\nConditional probabilities are probabilities\nIndependence\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nPeople vs. Collins\nPractice problems\n\n\n\nWednesday (02/26)\n\nTopics\n\nRandom variables (discrete)\nPMF, Bernoulli, Binomial\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nNone\n\n\n\nFriday (09/29)\n\n\nQuiz this afternoon at 2:30pm!\n\nTopics\n\nMonty Hall\nConditional probability in R\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nNone!\n\nClass activity\n\nfor loops and while loops in R demo\n\nExecuted code and output here\n\nClass activity"
+    "text": "Monday (02/24)\n\nTopics\n\nConditional probabilities are probabilities\nIndependence\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nPeople vs. Collins\nPractice problems\n\n\n\nWednesday (02/26)\n\nTopics\n\nRandom variables (discrete)\nPMF, Bernoulli, Binomial\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nNone\n\n\n\nFriday (09/29)\n\n\nQuiz this afternoon at 2:30pm!\n\nTopics\n\nMonty Hall\nFirst-step analysis\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nNone!\n\nClass activity\n\nClass activity"
   },
   {
     "objectID": "homework.html",
@@ -102,14 +102,14 @@
     "href": "index.html#major-announcements",
     "title": "Probability",
     "section": "Major Announcements",
-    "text": "Major Announcements\n\nSolutions to class practice problems posted in Canvas under Modules.\n\nSolutions to Quiz 1 practice problems coming soon!\n\nContent through end of week 2 is fair game for Quiz 1!\n\nTime and place: Friday 2/28 from 2:30-3:30pm in WNS 101\n\nWeek 3 office hours:\n\nThursday 2/27: 3:00-4:00pm\nFriday 2/28: 11:00-12:00pm"
+    "text": "Major Announcements\n\nSolutions to class practice problems posted in Canvas under Modules.\n\nSolutions to Quiz 1 practice problems coming soon!\n2/27: Note, problem 7 on the Quiz 1 practice problems had a poor set-up. I’ve updated the problem!\n\nContent through end of week 2 is fair game for Quiz 1!\n\nTime and place: Friday 2/28 from 2:30-3:30pm in WNS 101\n\nWeek 3 office hours:\n\nThursday 2/27: 3:00-4:00pm\nFriday 2/28: 11:00-12:00pm"
   },
   {
     "objectID": "weeks/week-04.html",
     "href": "weeks/week-04.html",
     "title": "Week 04",
     "section": "",
-    "text": "Monday (3/03)\n\nTopics\n\nMore discrete RV’s\nCDF\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nWednesday (3/05)\n\nTopics\n\nFunctions of RVs\nRVs in R\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nFriday (3/07)\n\nTopics\n\nJoint dist of discrete RVs\nIndependence of RVs\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity"
+    "text": "Monday (3/03)\n\nTopics\n\nMore discrete RV’s\nCDF\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nWednesday (3/05)\n\nTopics\n\nJoint PMF, functions of RVs\nRVs in R\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nFriday (3/07)\n\nTopics\n\nIndependence of RVs\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity"
   },
   {
     "objectID": "weeks/week-05.html",
@@ -340,6 +340,6 @@
     "href": "assessments/exam.html",
     "title": "Assessments",
     "section": "",
-    "text": "Friday, 2/28 from 2:30-3:30pm in WNS 101.\n\nContent through end of Week 2 is fair game (but no coding will be on the quiz)\nNo note sheets allowed\nStudy tips:\n\nReview notes and homework, do the extra practice problems associated with each class\nReally ask yourself if you understand each step of a solution (this is humbling, but oh so important)\nSeek assistance after trying problems on your own. Part of the battle is learning for yourself how to translate problem set-up into mathematical notation.\n\nExtra practice problems here (solutions posted sometime early Thursday)"
+    "text": "Friday, 2/28 from 2:30-3:30pm in WNS 101.\n\nContent through end of Week 2 is fair game (but no coding will be on the quiz)\nNo note sheets allowed\nStudy tips:\n\nReview notes and homework, do the extra practice problems associated with each class\nReally ask yourself if you understand each step of a solution (this is humbling, but oh so important)\nSeek assistance after trying problems on your own. Part of the battle is learning for yourself how to translate problem set-up into mathematical notation.\n\nExtra practice problems here (solutions posted sometime early Thursday)\n\n2/27: Note, problem 7 on the Quiz 1 practice problems had a poor set-up. I’ve updated the problem!"
   }
 ]
