@@ -10,12 +10,13 @@ title: "Week 04"
 
 -   More discrete RV's
 -   CDF
+-   Joint PMF
 
 **Daily assignment**
 
 To be completed and submitted to Canvas by 7:45am
 
--   Daily assignment
+-   [Daily assignment](daily/DA_09.pdf)
 
 **Class activity**
 
@@ -29,7 +30,7 @@ To be completed and submitted to Canvas by 7:45am
 
 **Topics**
 
--   Joint PMF, functions of RVs
+-   Functions of RVs
 -   RVs in `R`
 
 **Daily assignment**
