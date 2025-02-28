@@ -66,4 +66,4 @@ To be completed and submitted to Canvas by 7:45am
 
 **Class activity**
 
--   Class activity
+-   [Conditional probability in `R`](class/cond_prob_R.pdf)
