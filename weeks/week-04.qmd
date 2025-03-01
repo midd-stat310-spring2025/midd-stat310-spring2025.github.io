@@ -31,13 +31,14 @@ To be completed and submitted to Canvas by 7:45am
 **Topics**
 
 -   Functions of RVs
--   RVs in `R`
+-   Random variables in `R`
+-   Independence of RVs
 
 **Daily assignment**
 
 To be completed and submitted to Canvas by 7:45am
 
--   Daily assignment
+-   [Daily assignment](daily/DA_10.pdf)
 
 **Class activity**
 
@@ -51,7 +52,8 @@ To be completed and submitted to Canvas by 7:45am
 
 **Topics**
 
--   Independence of RVs
+-   Expected value
+-   LOTUS
 
 **Daily assignment**
 

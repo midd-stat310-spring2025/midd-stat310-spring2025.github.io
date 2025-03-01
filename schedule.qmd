@@ -30,3 +30,4 @@ A tentative high-level overview of the semester's topics are presented here. Top
 -   Hypergeometric
 -   Function of RVs
 -   Independence of RVs
+-   Expectation
