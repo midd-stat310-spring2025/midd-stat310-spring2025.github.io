@@ -14,3 +14,5 @@ Note: problem sets will be updated with new questions following each class. Comp
     -   Please submit both your written answers and the knitted HTML! You can do this by uploading several files during your Canvas submission, or doing two separate submissions.
 -   [Problem Set 3](weeks/hw/310_hw3.pdf): covers material from 2/24-2/28
     -   Due 3/4 at 11:59pm
+-   [Problem Set 4](weeks/hw/310_hw4.pdf): covers material from 3/3-3/7
+    -   Due 3/11 at 11:59pm
