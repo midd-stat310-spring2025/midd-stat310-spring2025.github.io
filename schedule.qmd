@@ -37,4 +37,6 @@ A tentative high-level overview of the semester's topics are presented here. Top
 -   Geometric and Negative Binomial
 -   Indicators
 
-## Spring break!
+### Spring break!
+
+### Week 6

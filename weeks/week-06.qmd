@@ -3,7 +3,7 @@ title: "Week 06"
 ---
 
 ::: {style="color: #F66D7A"}
-### Tuesday (10/17)
+### Monday (3/17)
 :::
 
 **Topics**
@@ -15,16 +15,20 @@ title: "Week 06"
 
 To be completed and submitted to Canvas by 7:45am
 
--   [Daily assignment](daily/DA_14.pdf)
+-   Daily assignment
 
 **Class activity**
 
--   [Class activity](class/CA_14.pdf)
+-   Class activity
 
 ------------------------------------------------------------------------
 
 ::: {style="color: #F66D7A"}
-### Thursday (10/19)
+### Wednesday (3/19)
+:::
+
+::: {style="color: purple"}
+**Content through today is fair game for Midterm!**
 :::
 
 **Topics**
@@ -36,16 +40,16 @@ To be completed and submitted to Canvas by 7:45am
 
 To be completed and submitted to Canvas by 7:45am
 
--   [Daily assignment](daily/DA_15.pdf)
+-   Daily assignment
 
 **Class activity**
 
--   [Class activity](class/CA_15.pdf)
+-   Class activity
 
 ------------------------------------------------------------------------
 
 ::: {style="color: #F66D7A"}
-### Friday (10/20)
+### Friday (10/21)
 :::
 
 **Topics**
@@ -56,8 +60,8 @@ To be completed and submitted to Canvas by 7:45am
 
 To be completed and submitted to Canvas by 7:45am
 
--   [Daily assignment](daily/DA_16.pdf)
+-   Daily assignment
 
 **Class activity**
 
--   [Class activity](class/CA_16.pdf)
+-   Class activity

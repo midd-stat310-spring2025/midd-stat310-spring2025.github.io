@@ -32,7 +32,7 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "A tentative high-level overview of the semester’s topics are presented here. Topics are subject to change based on class progress. Please select a week for a specific day’s assignments and materials."
+    "text": "A tentative high-level overview of the semester’s topics are presented here. Topics are subject to change based on class progress. Please select a week for a specific day’s assignments and materials.\n\nWeek 01\n\nWelcome\nSet theory\nCounting Methods\n\n\n\nWeek 02\n\nProbability axioms\nR and RStudio\nConditional probability, Bayes Rule, LoTP\n\n\n\nWeek 03\n\nIndependence of events\nDiscrete random variables (Bernoulli, Binomial)\nMonty Hall\n\n\n\nWeek 04\n\nHypergeometric\nFunction of RVs\nIndependence of RVs\nExpectation\n\n\n\nWeek 05\n\nGeometric and Negative Binomial\nIndicators\n\n\n\nSpring break!\n\n\nWeek 6"
   },
   {
     "objectID": "temp.html",
@@ -95,14 +95,14 @@
     "href": "homework.html",
     "title": "Homework",
     "section": "",
-    "text": "Note: problem sets will be updated with new questions following each class. Completed homework should be submitted to Canvas unless otherwise noted.\n\nProblem Set 1: covers material from 2/12-2/14\n\nDue: 2/18 at 11:59pm\nGood idea to read through Section 1.4 of textbook in entirety for examples!\n\nProblem Set 2: covers material from 2/17-2/21\n\nDue 2/25 at 11:59pm\n.Rmd file for Wednesday problems:  hw2_R \nPlease submit both your written answers and the knitted HTML! You can do this by uploading several files during your Canvas submission, or doing two separate submissions.\n\nProblem Set 3: covers material from 2/24-2/28\n\nDue 3/4 at 11:59pm\n\nProblem Set 4: covers material from 3/3-3/7\n\nDue 3/11 at 11:59pm"
+    "text": "Note: problem sets will be updated with new questions following each class. Completed homework should be submitted to Canvas unless otherwise noted.\n\nProblem Set 1: covers material from 2/12-2/14\n\nDue: 2/18 at 11:59pm\nGood idea to read through Section 1.4 of textbook in entirety for examples!\n\nProblem Set 2: covers material from 2/17-2/21\n\nDue 2/25 at 11:59pm\n.Rmd file for Wednesday problems:  hw2_R \nPlease submit both your written answers and the knitted HTML! You can do this by uploading several files during your Canvas submission, or doing two separate submissions.\n\nProblem Set 3: covers material from 2/24-2/28\n\nDue 3/4 at 11:59pm\n\nProblem Set 4: covers material from 3/3-3/7\n\nDue 3/11 at 11:59pm\n\nProblem Set 5: covers material from 3/10-3/13 and 3/17-3/19\n\nDue Saturday 3/22 at 11:59pm (note atypical due date)"
   },
   {
     "objectID": "index.html#major-announcements",
     "href": "index.html#major-announcements",
     "title": "Probability",
     "section": "Major Announcements",
-    "text": "Major Announcements\n\nI’m hiring some summer research assistants! Information here."
+    "text": "Major Announcements\n\nPlease fill out this anonymous survey by Sunday, 3/16 so I can see what adjustments I can make for the course\nHomework 5 due after spring break\nI’m hiring some summer research assistants! Information here."
   },
   {
     "objectID": "weeks/week-04.html",
@@ -130,7 +130,7 @@
     "href": "weeks/week-06.html",
     "title": "Week 06",
     "section": "",
-    "text": "Tuesday (10/17)\n\nTopics\n\nVariance\nMore practice with the fundamental bridge\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nThursday (10/19)\n\nTopics\n\nPoisson distribution\nPoisson paradigm\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nFriday (10/20)\n\nTopics\n\nContinuous random variables\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity"
+    "text": "Monday (3/17)\n\nTopics\n\nVariance\nMore practice with the fundamental bridge\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nWednesday (3/19)\n\n\nContent through today is fair game for Midterm!\n\nTopics\n\nPoisson distribution\nPoisson paradigm\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nFriday (10/21)\n\nTopics\n\nContinuous random variables\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity"
   },
   {
     "objectID": "weeks/week-07.html",
