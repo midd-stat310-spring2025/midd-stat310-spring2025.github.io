@@ -39,4 +39,8 @@ A tentative high-level overview of the semester's topics are presented here. Top
 
 ### Spring break!
 
-### Week 6
+### [Week 6](weeks/week-06.qmd)
+
+-   Variance
+-   Poisson
+-   Continuous RVs
