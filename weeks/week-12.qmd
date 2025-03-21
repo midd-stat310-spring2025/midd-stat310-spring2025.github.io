@@ -3,10 +3,8 @@ title: "Week 12"
 ---
 
 ::: {style="color: #F66D7A"}
-### Tuesday (12/05)
+### Monday (5/05)
 :::
-
-Class visit: Prof. Tang being observed by a colleague!
 
 **Topics**
 
@@ -16,19 +14,17 @@ Class visit: Prof. Tang being observed by a colleague!
 
 To be completed and submitted to Canvas by 7:45am
 
--   [Daily assignment](daily/DA_31.pdf)
+-   Daily assignment
 
 **Class activity**
 
--   [Class activity](class/CA_31.pdf)
+-   Class activity
 
 ------------------------------------------------------------------------
 
 ::: {style="color: #F66D7A"}
-### Thursday (12/07)
+### Wednesday (5/07)
 :::
-
-Class visit: Prof. Tang being observed by a colleague!
 
 **Topics**
 
@@ -39,16 +35,16 @@ Class visit: Prof. Tang being observed by a colleague!
 
 To be completed and submitted to Canvas by 7:45am
 
--   [Daily assignment](daily/DA_32.pdf)
+-   Daily assignment
 
 **Class activity**
 
--   [Class activity](class/CA_32.pdf)
+-   Class activity
 
 ------------------------------------------------------------------------
 
 ::: {style="color: #F66D7A"}
-### Friday (12/08)
+### Friday (5/09)
 :::
 
 **Topics**
@@ -59,8 +55,8 @@ To be completed and submitted to Canvas by 7:45am
 
 To be completed and submitted to Canvas by 7:45am
 
--   [Daily assignment](daily/DA_33.pdf)
+-   Daily assignment
 
 **Class activity**
 
--   [Class activity](class/CA_33.pdf)
+-   Class activity

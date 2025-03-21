@@ -44,3 +44,9 @@ A tentative high-level overview of the semester's topics are presented here. Top
 -   Variance
 -   Poisson
 -   Continuous RVs
+
+### [Week 7](weeks/week-07.qmd)
+
+-   Uniform
+-   Normal distribution
+-   Exponential distribution

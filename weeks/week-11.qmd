@@ -3,50 +3,47 @@ title: "Week 11"
 ---
 
 ::: {style="color: #F66D7A"}
-### Tuesday (11/28)
-:::
-
-**Topics**
-
--   Beta distribution
--   Gamma distribution
--   Poisson processes
-
-**Daily assignment**
-
-To be completed and submitted to Canvas by 7:45am
-
--   [Daily assignment](daily/DA_28.pdf) (note, this is a bit longer than usual; please plan ahead!)
-
-**Class activity**
-
--   [Class activity](class/CA_28.pdf)
-
-------------------------------------------------------------------------
-
-::: {style="color: #F66D7A"}
-### Thursday (11/30)
+### Monday (4/28)
 :::
 
 **Topics**
 
 -   Order statistics
+
+**Daily assignment**
+
+To be completed and submitted to Canvas by 7:45am
+
+-   Daily assignment
+
+**Class activity**
+
+-   Class activity
+
+------------------------------------------------------------------------
+
+::: {style="color: #F66D7A"}
+### Wednesday (4/28)
+:::
+
+**Topics**
+
 -   Conditional expectation (given an event)
 
 **Daily assignment**
 
 To be completed and submitted to Canvas by 7:45am
 
--   [Daily assignment](daily/DA_29.pdf)
+-   Daily assignment
 
 **Class activity**
 
--   [Class activity](class/CA_29.pdf)
+-   Class activity
 
 ------------------------------------------------------------------------
 
 ::: {style="color: #F66D7A"}
-### Friday (12/01)
+### Friday (5/02)
 :::
 
 **Topics**
@@ -57,8 +54,8 @@ To be completed and submitted to Canvas by 7:45am
 
 To be completed and submitted to Canvas by 7:45am
 
--   [Daily assignment](daily/DA_30.pdf)
+-   Daily assignment
 
 **Class activity**
 
--   [Class activity](class/CA_30.pdf)
+-   Class activity

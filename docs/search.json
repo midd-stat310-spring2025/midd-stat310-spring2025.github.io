@@ -32,7 +32,7 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "A tentative high-level overview of the semester’s topics are presented here. Topics are subject to change based on class progress. Please select a week for a specific day’s assignments and materials.\n\nWeek 01\n\nWelcome\nSet theory\nCounting Methods\n\n\n\nWeek 02\n\nProbability axioms\nR and RStudio\nConditional probability, Bayes Rule, LoTP\n\n\n\nWeek 03\n\nIndependence of events\nDiscrete random variables (Bernoulli, Binomial)\nMonty Hall\n\n\n\nWeek 04\n\nHypergeometric\nFunction of RVs\nIndependence of RVs\nExpectation\n\n\n\nWeek 05\n\nGeometric and Negative Binomial\nIndicators\n\n\n\nSpring break!\n\n\nWeek 6\n\nVariance\nPoisson\nContinuous RVs"
+    "text": "A tentative high-level overview of the semester’s topics are presented here. Topics are subject to change based on class progress. Please select a week for a specific day’s assignments and materials.\n\nWeek 01\n\nWelcome\nSet theory\nCounting Methods\n\n\n\nWeek 02\n\nProbability axioms\nR and RStudio\nConditional probability, Bayes Rule, LoTP\n\n\n\nWeek 03\n\nIndependence of events\nDiscrete random variables (Bernoulli, Binomial)\nMonty Hall\n\n\n\nWeek 04\n\nHypergeometric\nFunction of RVs\nIndependence of RVs\nExpectation\n\n\n\nWeek 05\n\nGeometric and Negative Binomial\nIndicators\n\n\n\nSpring break!\n\n\nWeek 6\n\nVariance\nPoisson\nContinuous RVs\n\n\n\nWeek 7\n\nUniform\nNormal distribution\nExponential distribution"
   },
   {
     "objectID": "temp.html",
@@ -137,7 +137,7 @@
     "href": "weeks/week-07.html",
     "title": "Week 07",
     "section": "",
-    "text": "Tuesday (10/24)\n\nTopics\n\nUniform distribution\nUniversality of the uniform\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nThursday (10/26)\n\nTopics\n\nNormal distribution\nContinuous random variables in R\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nFriday (10/27)\n\nTopics\n\nExponential distribution\nConnection between Exponential and Poisson\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity"
+    "text": "Monday (3/31)\n\nTopics\n\nUniform distribution\nUniversality of the uniform\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nWednesday (4/02)\n\nTopics\n\nNormal distribution\nContinuous random variables in R\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nFriday (4/04)\n\nTopics\n\nExponential distribution\nConnection between Exponential and Poisson\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity"
   },
   {
     "objectID": "exam.html#midterm-2",
@@ -151,21 +151,21 @@
     "href": "weeks/week-08.html",
     "title": "Week 08",
     "section": "",
-    "text": "Tuesday (10/31)\n\nTopics\n\nSummaries of distributions\nMoments\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nThursday (11/02)\n\nTopics\n\nRecap Power and Taylor series\nMoment generating functions\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nFriday (11/03)\n\nLast day to drop classes\n\nMaterial through today is fair game for midterm 2!\n\nTopics\n\nMoment generating functions cont.\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity"
+    "text": "Monday (4/07)\n\nTopics\n\nSummaries of distributions\nMoments\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nWednesday (4/09)\n\nTopics\n\nRecap Power and Taylor series\nMoment generating functions\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nFriday (4/11)\n\nLast day to drop classes\nTopics\n\nJoint distributions\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity"
   },
   {
     "objectID": "weeks/week-09.html",
     "href": "weeks/week-09.html",
     "title": "Week 09",
     "section": "",
-    "text": "Tuesday (11/07)\n\nTopics\n\nJoint distributions (discrete)\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nThursday (11/09)\n\nTopics\n\nJoint distribution (continuous and mixed)\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nFriday (11/10)\n\nTopics\n\n2D LOTUS\nCovariance and Correlation\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity"
+    "text": "Monday (4/14)\n\nTopics\n\n2D LoTUS\nCovariance and correlation\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nWednesday (4/16)\n\n\nContent from Midterm through today is fair game for Quiz 2!\n\nTopics\n\nMultinomial and/or multivariate normal\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nFriday (4/16)\n\nNo class or office hours due to Spring Symposium!"
   },
   {
     "objectID": "weeks/week-10.html",
     "href": "weeks/week-10.html",
     "title": "Week 10",
     "section": "",
-    "text": "Tuesday (11/14)\n\nTopics\n\nChange of variable formula (1D and 2D)\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nNote the optional refresher video on change-of-variable from Calculus!\n\n\nClass activity\n\nClass activity\n\n\n\nThursday (11/16)\n\nMidterm II at 6-8pm tonight in Warner 104\nTopics\n\nMultinomial distribution\n\nDaily assignment\n\nDaily assignment\n\nNo submission to Canvas today, but please do skim the reading\n\n\nClass activity\n\nClass activity\n\n\n\nFriday (11/17)\n\nNo class! Take-home component of Midterm II released. Please consider using the usual class time to work on the take-home!\nHave a safe Thanksgiving break!"
+    "text": "Monday (4/21)\n\nTopics\n\nChange of variable formula (1D and 2D)\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nNote the optional refresher video on change-of-variable from Calculus!\n\n\nClass activity\n\nClass activity\n\n\n\nWednesday (4/23)\n\nTopics\n\nBeta distribution\nGamma distribution\n\nDaily assignment\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nFriday (4/25)\n\n\nQuiz 2 this afternoon at 2:30pm!\n\nTopics\n\nChange of variable (CDF method)\n\nDaily assignment\n\nNone!\n\nClass activity\n\nClass activity"
   },
   {
     "objectID": "exam.html#sec-midterm2",
@@ -186,21 +186,21 @@
     "href": "weeks/week-11.html",
     "title": "Week 11",
     "section": "",
-    "text": "Tuesday (11/28)\n\nTopics\n\nBeta distribution\nGamma distribution\nPoisson processes\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment (note, this is a bit longer than usual; please plan ahead!)\n\nClass activity\n\nClass activity\n\n\n\nThursday (11/30)\n\nTopics\n\nOrder statistics\nConditional expectation (given an event)\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nFriday (12/01)\n\nTopics\n\nConditional expectation (given a random variable)\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity"
+    "text": "Monday (4/28)\n\nTopics\n\nOrder statistics\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nWednesday (4/28)\n\nTopics\n\nConditional expectation (given an event)\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nFriday (5/02)\n\nTopics\n\nConditional expectation (given a random variable)\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity"
   },
   {
     "objectID": "weeks/week-12.html",
     "href": "weeks/week-12.html",
     "title": "Week 12",
     "section": "",
-    "text": "Tuesday (12/05)\n\nClass visit: Prof. Tang being observed by a colleague!\nTopics\n\nConditional variance\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nThursday (12/07)\n\nClass visit: Prof. Tang being observed by a colleague!\nTopics\n\nInequalities\nLaw of Large Numbers\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nFriday (12/08)\n\nTopics\n\nCentral Limit Theorem!\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity"
+    "text": "Monday (5/05)\n\nTopics\n\nConditional variance\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nWednesday (5/07)\n\nTopics\n\nInequalities\nLaw of Large Numbers\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nFriday (5/09)\n\nTopics\n\nCentral Limit Theorem!\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity"
   },
   {
     "objectID": "weeks/week-13.html",
     "href": "weeks/week-13.html",
     "title": "Week 13",
     "section": "",
-    "text": "Monday (12/11)\n\nTopics\n\nCLT simulation in R\nExtra time for review?\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nTBD\n\nClass activity\n\nTBD"
+    "text": "Monday (5/12)\n\nTopics\n\nCLT simulation in R\nExtra time for review?\n\nDaily assignment\n\nNone!\n\nClass activity\n\nTBD"
   },
   {
     "objectID": "exam.html#sec-final",

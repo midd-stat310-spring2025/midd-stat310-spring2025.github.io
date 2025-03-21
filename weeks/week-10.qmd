@@ -3,7 +3,7 @@ title: "Week 10"
 ---
 
 ::: {style="color: #F66D7A"}
-### Tuesday (11/14)
+### Monday (4/21)
 :::
 
 **Topics**
@@ -14,40 +14,50 @@ title: "Week 10"
 
 To be completed and submitted to Canvas by 7:45am
 
--   [Daily assignment](daily/DA_26.pdf)
+-   Daily assignment
     -   Note the optional refresher video on change-of-variable from Calculus!
 
 **Class activity**
 
--   [Class activity](class/CA_26.pdf)
+-   Class activity
 
 ------------------------------------------------------------------------
 
 ::: {style="color: #F66D7A"}
-### Thursday (11/16)
+### Wednesday (4/23)
 :::
-
-[**Midterm II**](/exam.qmd#sec-midterm2) **at 6-8pm tonight in Warner 104**
 
 **Topics**
 
--   Multinomial distribution
+-   Beta distribution
+-   Gamma distribution
 
 **Daily assignment**
 
--   [Daily assignment](daily/DA_27.pdf)
-    -   No submission to Canvas today, but please do skim the reading
+-   Daily assignment
 
 **Class activity**
 
--   [Class activity](class/CA_27.pdf)
+-   Class activity
 
 ------------------------------------------------------------------------
 
 ::: {style="color: #F66D7A"}
-### Friday (11/17)
+### Friday (4/25)
 :::
 
-**No class! Take-home component of Midterm II released. Please consider using the usual class time to work on the take-home!**
+::: {style="color: purple"}
+**Quiz 2 this afternoon at 2:30pm!**
+:::
 
-Have a safe Thanksgiving break!
+**Topics**
+
+-   Change of variable (CDF method)
+
+**Daily assignment**
+
+-   None!
+
+**Class activity**
+
+-   Class activity

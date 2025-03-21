@@ -3,7 +3,7 @@ title: "Week 07"
 ---
 
 ::: {style="color: #F66D7A"}
-### Tuesday (10/24)
+### Monday (3/31)
 :::
 
 **Topics**
@@ -15,16 +15,16 @@ title: "Week 07"
 
 To be completed and submitted to Canvas by 7:45am
 
--   [Daily assignment](daily/DA_17.pdf)
+-   Daily assignment
 
 **Class activity**
 
--   [Class activity](class/CA_17.pdf)
+-   Class activity
 
 ------------------------------------------------------------------------
 
 ::: {style="color: #F66D7A"}
-### Thursday (10/26)
+### Wednesday (4/02)
 :::
 
 **Topics**
@@ -36,16 +36,16 @@ To be completed and submitted to Canvas by 7:45am
 
 To be completed and submitted to Canvas by 7:45am
 
--   [Daily assignment](daily/DA_18.pdf)
+-   Daily assignment
 
 **Class activity**
 
--   [Class activity](class/CA_18.pdf)
+-   Class activity
 
 ------------------------------------------------------------------------
 
 ::: {style="color: #F66D7A"}
-### Friday (10/27)
+### Friday (4/04)
 :::
 
 **Topics**
@@ -57,8 +57,8 @@ To be completed and submitted to Canvas by 7:45am
 
 To be completed and submitted to Canvas by 7:45am
 
--   [Daily assignment](daily/DA_19.pdf)
+-   Daily assignment
 
 **Class activity**
 
--   [Class activity](class/CA_19.pdf)
+-   Class activity
