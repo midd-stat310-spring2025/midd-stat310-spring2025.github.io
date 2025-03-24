@@ -52,12 +52,13 @@ To be completed and submitted to Canvas by 7:45am
 
 -   Exponential distribution
 -   Connection between Exponential and Poisson
+-   Continuous RVs in `R`
 
 **Daily assignment**
 
 To be completed and submitted to Canvas by 7:45am
 
--   Daily assignment
+-   None!
 
 **Class activity**
 
