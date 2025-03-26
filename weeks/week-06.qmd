@@ -43,7 +43,7 @@ To be completed and submitted to Canvas by 7:45am
 
 **Class activity**
 
--   Class activity
+-   [Class activity](class/CA_15.pdf)
 
 ------------------------------------------------------------------------
 
@@ -54,6 +54,7 @@ To be completed and submitted to Canvas by 7:45am
 **Topics**
 
 -   Continuous random variables
+-   Uniform
 
 **Daily assignment**
 

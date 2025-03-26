@@ -32,7 +32,7 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "A tentative high-level overview of the semester’s topics are presented here. Topics are subject to change based on class progress. Please select a week for a specific day’s assignments and materials.\n\nWeek 01\n\nWelcome\nSet theory\nCounting Methods\n\n\n\nWeek 02\n\nProbability axioms\nR and RStudio\nConditional probability, Bayes Rule, LoTP\n\n\n\nWeek 03\n\nIndependence of events\nDiscrete random variables (Bernoulli, Binomial)\nMonty Hall\n\n\n\nWeek 04\n\nHypergeometric\nFunction of RVs\nIndependence of RVs\nExpectation\n\n\n\nWeek 05\n\nGeometric and Negative Binomial\nIndicators\n\n\n\nSpring break!\n\n\nWeek 6\n\nVariance\nPoisson\nContinuous RVs\n\n\n\nWeek 7\n\nUniform\nNormal distribution\nExponential distribution"
+    "text": "A tentative high-level overview of the semester’s topics are presented here. Topics are subject to change based on class progress. Please select a week for a specific day’s assignments and materials.\n\nWeek 01\n\nWelcome\nSet theory\nCounting Methods\n\n\n\nWeek 02\n\nProbability axioms\nR and RStudio\nConditional probability, Bayes Rule, LoTP\n\n\n\nWeek 03\n\nIndependence of events\nDiscrete random variables (Bernoulli, Binomial)\nMonty Hall\n\n\n\nWeek 04\n\nHypergeometric\nFunction of RVs\nIndependence of RVs\nExpectation\n\n\n\nWeek 05\n\nGeometric and Negative Binomial\nIndicators\n\n\n\nSpring break!\n\n\nWeek 6\n\nVariance\nPoisson\nContinuous RVs\nUniform\n\n\n\nWeek 7\n\nNormal distribution\nExponential distribution\nContinuous RVs in R"
   },
   {
     "objectID": "temp.html",
@@ -102,7 +102,7 @@
     "href": "index.html#major-announcements",
     "title": "Probability",
     "section": "Major Announcements",
-    "text": "Major Announcements\n\nMidterm is next Thursday, 4/3 from 7-9pm (location TBD)\n\nContent through this Wednesday is fair game (emphasis on content after quiz 1)\n\nProblem set 5 due this Saturday 3/29 at 11:59pm! Covers content through Wednesday.\nPlease fill out this anonymous survey by Sunday, 3/16 so I can see what adjustments I can make for the course"
+    "text": "Major Announcements\n\nMidterm is next Thursday, 4/3 from 7-9pm (Warner 105)\n\nContent through this Wednesday is fair game (emphasis on content after quiz 1)\n\nProblem set 5 due this Saturday 3/29 at 11:59pm! Covers content through Wednesday.\nPlease fill out this anonymous survey by Sunday, 3/16 so I can see what adjustments I can make for the course"
   },
   {
     "objectID": "weeks/week-04.html",
@@ -130,14 +130,14 @@
     "href": "weeks/week-06.html",
     "title": "Week 06",
     "section": "",
-    "text": "Monday (3/24)\n\nTopics\n\nVariance\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nWednesday (3/26)\n\n\nContent through today is fair game for Midterm!\n\nTopics\n\nPoisson distribution\nPoisson paradigm\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nFriday (3/28)\n\nTopics\n\nContinuous random variables\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity"
+    "text": "Monday (3/24)\n\nTopics\n\nVariance\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nWednesday (3/26)\n\n\nContent through today is fair game for Midterm!\n\nTopics\n\nPoisson distribution\nPoisson paradigm\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nFriday (3/28)\n\nTopics\n\nContinuous random variables\nUniform\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity"
   },
   {
     "objectID": "weeks/week-07.html",
     "href": "weeks/week-07.html",
     "title": "Week 07",
     "section": "",
-    "text": "Monday (3/31)\n\nTopics\n\nUniform distribution\nUniversality of the uniform\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nWednesday (4/02)\n\nTopics\n\nNormal distribution\nContinuous random variables in R\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nFriday (4/04)\n\nTopics\n\nExponential distribution\nConnection between Exponential and Poisson\nContinuous RVs in R\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nNone!\n\nClass activity\n\nClass activity"
+    "text": "Monday (3/31)\n\nTopics\n\nNormal distribution\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nWednesday (4/02)\n\nTopics\n\nExponential\nConnection between Exponential and Poisson\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nFriday (4/04)\n\nTopics\n\nUniversality of the Uniform\nContinuous RVs in R\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nNone!\n\nClass activity\n\nClass activity"
   },
   {
     "objectID": "exam.html#midterm-2",
@@ -340,7 +340,7 @@
     "href": "assessments/exam.html",
     "title": "Assessments",
     "section": "",
-    "text": "Friday, 2/28 from 2:30-3:30pm in WNS 101.\n\nContent through end of Week 2 is fair game (but no coding will be on the quiz)\nNo note sheets allowed\nStudy tips:\n\nReview notes and homework, do the extra practice problems associated with each class\nReally ask yourself if you understand each step of a solution (this is humbling, but oh so important)\nSeek assistance after trying problems on your own. Part of the battle is learning for yourself how to translate problem set-up into mathematical notation.\n\nExtra practice problems here (solutions posted sometime early Thursday)\n\n2/27: Note, problem 7 on the Quiz 1 practice problems had a poor set-up. I’ve updated the problem!"
+    "text": "Thursday, April 3 from 7:00-9:00pm in WNS 105.\n\n\n\nContent through March 26 is fair game (emphasis on content from Week 3 onward)\nYou are allowed one, single-sided note sheet (8.5x11 inches)\n\nYour note sheet cannot include any worked out examples/derivations\nI highly recommend you write out the PMFs (including supports), means, and variances for our named distributions. Some of them will most likely appear on the midterm and I will not provide their PMFs for you.\n\n\n\n\n\n\nReview notes and homework, do the extra practice problems associated with each class\nExtra practice problems posted shortly (selected solutions coming later)\nMy personal working strategy:\n\nFirst review your notes\nMake a first draft of your note sheet, then do some practice problems using only your note sheet to see if what you wrote on it is actually useful for you\nMake a new note sheet\nRepeat as necessary"
   },
   {
     "objectID": "schedule.html#spring-break",
@@ -348,5 +348,12 @@
     "title": "Schedule",
     "section": "Spring break!",
     "text": "Spring break!"
+  },
+  {
+    "objectID": "assessments/exam.html#quiz-1",
+    "href": "assessments/exam.html#quiz-1",
+    "title": "Assessments",
+    "section": "Quiz 1",
+    "text": "Quiz 1\nFriday, 2/28 from 2:30-3:30pm in WNS 101.\n\nContent through end of Week 2 is fair game (but no coding will be on the quiz)\nNo note sheets allowed\nStudy tips:\n\nReview notes and homework, do the extra practice problems associated with each class\nReally ask yourself if you understand each step of a solution (this is humbling, but oh so important)\nSeek assistance after trying problems on your own. Part of the battle is learning for yourself how to translate problem set-up into mathematical notation.\n\nExtra practice problems here (solutions posted sometime early Thursday)\n\n2/27: Note, problem 7 on the Quiz 1 practice problems had a poor set-up. I’ve updated the problem!"
   }
 ]

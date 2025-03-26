@@ -8,8 +8,7 @@ title: "Week 07"
 
 **Topics**
 
--   Uniform distribution
--   Universality of the uniform
+-   Normal distribution
 
 **Daily assignment**
 
@@ -29,8 +28,8 @@ To be completed and submitted to Canvas by 7:45am
 
 **Topics**
 
--   Normal distribution
--   Continuous random variables in `R`
+-   Exponential
+-   Connection between Exponential and Poisson
 
 **Daily assignment**
 
@@ -50,8 +49,7 @@ To be completed and submitted to Canvas by 7:45am
 
 **Topics**
 
--   Exponential distribution
--   Connection between Exponential and Poisson
+-   Universality of the Uniform
 -   Continuous RVs in `R`
 
 **Daily assignment**

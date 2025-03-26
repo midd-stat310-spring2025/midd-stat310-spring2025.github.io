@@ -4,6 +4,40 @@ sidebar: false
 toc: true
 ---
 
+## Midterm
+
+### What and when
+
+-   Thursday, April 3 from 7:00-9:00pm in WNS 105.
+
+<!-- -->
+
+-   Content through March 26 is fair game (emphasis on content from Week 3 onward)
+
+-   You are allowed one, single-sided note sheet (8.5x11 inches)
+
+    -   Your note sheet cannot include any worked out examples/derivations
+
+    -   I **highly recommend** you write out the PMFs (including supports), means, and variances for our named distributions. Some of them will most likely appear on the midterm and I will not provide their PMFs for you.
+
+### Study tips 
+
+-   Review notes and homework, do the extra practice problems associated with each class
+
+-   Extra practice problems posted shortly (selected solutions coming later)
+
+-   My personal working strategy:
+
+    1.  First review your notes
+
+    2.  Make a first draft of your note sheet, then do some practice problems using only your note sheet to see if what you wrote on it is actually useful for you
+
+    3.  Make a new note sheet
+
+    4.  Repeat as necessary
+
+------------------------------------------------------------------------
+
 ## **Quiz 1**
 
 Friday, 2/28 from 2:30-3:30pm in WNS 101.
