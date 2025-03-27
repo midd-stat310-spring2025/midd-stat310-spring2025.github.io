@@ -7,10 +7,11 @@ Welcome to the website for Middlebury College's Spring 2025 MATH/STAT 310. On th
 
 ## Major Announcements
 
--   Midterm is next Thursday, 4/3 from 7-9pm (Warner 105)
-    -   Content through this Wednesday is fair game (emphasis on content after quiz 1)
+-   [Midterm](assessments/exam.qmd) is next Thursday, 4/3 from 7-9pm (Warner 105)
 -   Problem set 5 due this Saturday 3/29 at 11:59pm! Covers content through Wednesday.
--   Please fill out this [anonymous survey](https://docs.google.com/forms/d/e/1FAIpQLSe9-kFSp4KCVLAOLNMjBXXF45w4mPIEZ14Qg9Kh-2raya0YiQ/viewform?usp=dialog) by Sunday, 3/16 so I can see what adjustments I can make for the course
+-   Week 7 office hours:
+    -   Monday & Tuesday 3-4pm (usual)
+    -   *Tentative*: either Wednesday 2-4pm or (Wednesday 3-4pm, Thursday 10-11am)
 
 ## Course Details
 
