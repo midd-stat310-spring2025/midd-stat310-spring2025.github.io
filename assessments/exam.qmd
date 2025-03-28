@@ -13,6 +13,7 @@ toc: true
 -   You are allowed one, single-sided note sheet (8.5x11 inches)
     -   Your note sheet cannot include any worked out examples/derivations
     -   I **highly recommend** you write out the PMFs (including supports), means, and variances for our named distributions. Some of them will most likely appear on the midterm and I will not provide their PMFs for you.
+-   No homework due Week 7, but there will be a problem set due the following Tuesday (4/8)
 
 ### Study tips
 
