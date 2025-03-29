@@ -18,7 +18,7 @@ toc: true
 ### Study tips
 
 -   Review notes and homework, do the extra practice problems associated with each class
--   Extra practice problems posted shortly (selected solutions coming later)
+-   Extra practice problems [here](midterm_practice_probs.pdf) (selected solutions coming later)
 -   Come to office hours!!
 -   My personal working strategy:
     1.  First review your notes

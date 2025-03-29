@@ -10,8 +10,10 @@ Welcome to the website for Middlebury College's Spring 2025 MATH/STAT 310. On th
 -   [Midterm](assessments/exam.qmd) is next Thursday, 4/3 from 7-9pm (Warner 105)
 -   Problem set 5 due this Saturday 3/29 at 11:59pm! Covers content through Wednesday.
 -   Week 7 office hours:
-    -   Monday & Tuesday 3-4pm (usual)
-    -   *Tentative*: either Wednesday 2-4pm or (Wednesday 3-4pm, Thursday 10-11am)
+    -   Monday 3-4pm (usual)
+    -   Tuesday 3-4pm (usual)
+    -   Wednesday 3-4pm (extra)
+    -   Thursday 10-11am (extra)
 
 ## Course Details
 
