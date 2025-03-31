@@ -6,6 +6,10 @@ title: "Week 09"
 ### Monday (4/14)
 :::
 
+::: {style="color: purple"}
+**Pre-registration dessert social today 3:00-4:30pm in WNS 105 (our classroom)!**
+:::
+
 **Topics**
 
 -   2D LoTUS
@@ -33,7 +37,7 @@ To be completed and submitted to Canvas by 7:45am
 
 **Topics**
 
--   Multinomial and/or multivariate normal
+-   Bivariate normal
 
 **Daily assignment**
 

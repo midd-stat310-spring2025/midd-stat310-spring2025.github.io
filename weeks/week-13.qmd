@@ -8,8 +8,8 @@ title: "Week 13"
 
 **Topics**
 
--   CLT simulation in R
--   Extra time for review?
+-   Multivariate normal
+-   Review
 
 **Daily assignment**
 

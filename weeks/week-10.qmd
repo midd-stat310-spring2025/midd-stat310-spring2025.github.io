@@ -8,6 +8,7 @@ title: "Week 10"
 
 **Topics**
 
+-   Change of variable (CDF method) recap
 -   Change of variable formula (1D and 2D)
 
 **Daily assignment**
@@ -52,7 +53,7 @@ To be completed and submitted to Canvas by 7:45am
 
 **Topics**
 
--   Change of variable (CDF method)
+-   Order statistics
 
 **Daily assignment**
 

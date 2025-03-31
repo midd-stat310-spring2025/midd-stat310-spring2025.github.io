@@ -1,0 +1,84 @@
+---
+title: "Continuous RVs and University of Uniform"
+author: "Your name"
+date: "2025-03-31"
+output: pdf_document
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, fig.height = 3)
+```
+
+
+## Continuous RVs
+
+Built into `R` are some functions that work with the named continuous distributions. Recall we have the following types of functions:
+
+For example:
+
+-   `dnorm(x, mu, sigma)` will evaluate the PDF of a $N(\mu, \sigma^2)$ distribution at the value `x`.
+-   `pnorm(q, mu, sigma)` will evaluate the CDF of a $N(\mu, \sigma^2)$ distribution at the value `q`
+-   `qnorm(p, mu, sigma)` will evaluate the inverse-CDF of a $N(\mu, \sigma^2)$ distribution at the value `p`
+-   `rnorm(n, mu, sigma)` will generate `n` random variables from the $N(\mu, \sigma^2)$ distribution
+
+NOTE: for the `_norm()` functions in R, the functions expect standard deviation as input, not variance!!
+
+```{r}
+# X ~ N(0, 4) -> What is P(X <= 0):
+
+# Generate 10 random variables from the Unif(0,1) distribution:
+
+# X ~ Exp(2). What is f(1)?
+
+# Obtain median of standard normal
+
+```
+
+## Visualizing densities
+
+Sometimes it can be helpful to visualize the density of a distribution. There are a couple ways we can do this. Let's do this example for the $Unif(1, 1.5)$ distribution.
+
+### Option 1
+
+*If we can randomly sample from the distribution*, we can generate lots and lots of random variables from that distribution and make a histogram of them:
+
+```{r}
+# simulate lots and lots of Unif(1, 1.5) rvs
+
+# make a histogram of the simulations
+```
+
+### Option 2
+
+*If we have access to the PDF directly* (which we do for the named distributions), we can simply graph the function:
+
+```{r}
+# create a sequence of values from 0 and 2 at equally-size 0.01 increments
+
+
+# evaluate PDF of interest at each value in x_seq
+
+
+# visualize
+
+
+```
+
+## Universality of Uniform / Probability Integral Transform
+
+Now, let's see the University of the Uniform in action! Suppose you've lost access to all the functions in R that allow you randomly generate rvs from all the named distribution except for the Uniform. 
+
+### Example 1
+
+How can we simulate values from the $\text{Exp}(2)$ distribution?
+
+```{r}
+# generate lots of Unif(0,1) rvs
+
+# use inverse CDF that we derived
+
+# visualize 
+
+```

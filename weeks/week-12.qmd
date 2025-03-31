@@ -8,7 +8,8 @@ title: "Week 12"
 
 **Topics**
 
--   Conditional variance
+-   Inequalities
+-   Law of Large Numbers
 
 **Daily assignment**
 
@@ -28,8 +29,7 @@ To be completed and submitted to Canvas by 7:45am
 
 **Topics**
 
--   Inequalities
--   Law of Large Numbers
+-   Central Limit Theorem!
 
 **Daily assignment**
 
@@ -49,7 +49,7 @@ To be completed and submitted to Canvas by 7:45am
 
 **Topics**
 
--   Central Limit Theorem!
+-   CLT continued!
 
 **Daily assignment**
 

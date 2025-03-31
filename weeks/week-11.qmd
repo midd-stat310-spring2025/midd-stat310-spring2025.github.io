@@ -8,7 +8,7 @@ title: "Week 11"
 
 **Topics**
 
--   Order statistics
+-   Conditional expectation (given an event)
 
 **Daily assignment**
 
@@ -28,7 +28,7 @@ To be completed and submitted to Canvas by 7:45am
 
 **Topics**
 
--   Conditional expectation (given an event)
+-   Conditional expectation (given a random variable)
 
 **Daily assignment**
 
@@ -48,7 +48,7 @@ To be completed and submitted to Canvas by 7:45am
 
 **Topics**
 
--   Conditional expectation (given a random variable)
+-   Conditional variance
 
 **Daily assignment**
 
