@@ -1,14 +1,20 @@
 ---
-title: "Continuous RVs and University of Uniform"
+title: "Continuous RVs and Universality of Uniform"
 author: "Becky Tang"
-date: "2025-03-31"
-format: pdf
+date: "2025-04-04"
+format: 
+  pdf:
+    geometry:
+      - top=2.5cm
+      - left=2.5cm
+      - right=2.5cm
+      - bottom=2.5cm
 editor_options: 
   chunk_output_type: console
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, fig.height = 3)
+knitr::opts_chunk$set(echo = TRUE, fig.height = 2.75, fig.width = 4)
 ```
 
 ## Continuous RVs in `R`
@@ -25,8 +31,8 @@ For example:
 NOTE: for the `_norm()` functions in R, the functions expect standard deviation as input, not variance!!
 
 ```{r}
-# X ~ N(0, 4) -> What is P(X <= 0)?
-pnorm(0, mean = 0, sd = 2)
+# X ~ N(0, 4) -> What is P(X <= 1)?
+pnorm(1, 0, sqrt(4))
 ```
 
 The different distributions in R all follow the same format: `d<dist>()` or `p<dist>()`, and you specify the specific inputs and parameters.
@@ -36,8 +42,10 @@ The different distributions in R all follow the same format: `d<dist>()` or `p<d
 runif(10, min = 0, max = 1)
 
 # X ~ Exp(2). What is f(1)?
+dexp(2)
 
 # Obtain median of standard normal
+qnorm(0.5, 0, 1)
 ```
 
 ## Visualizing densities
@@ -101,9 +109,9 @@ f <- dexp(x_seq, rate = lambda)
 lines(x_seq, f, type = "l")
 ```
 
-What if we didn't have access to the density function in R? No problem! We can make our own:
 
-```{r}
+```{r echo = F, eval = F}
+# What if we didn't have access to the density function in R? No problem! We can make our own:
 my_dexp <- function(x, lambda){
   n <- length(x)
   ret <- rep(0, n)
@@ -118,10 +126,17 @@ hist(x, xlab = "x", main = "Exp(2) rvs", freq = F)
 lines(x_seq, f, type = "l")
 ```
 
-Looks the same!
-
 ### Example 2
 
-Suppose we have distribution whose pdf is $$f_{X}(x) = \frac{e^{-x}}{(1 + e^{-x})^2}$$
+Suppose we have a distribution whose PDF is $$f_{X}(x) = \frac{e^{-x}}{(1 + e^{-x})^2}$$
 
 for $x \in (-\infty, \infty)$.
+
+Write code to simulate 1000 random variables from this distribution, and visualize them as a density histogram.
+
+```{r eval = F, echo = F}
+# F = 1/(1+e^{-x})
+u <- runif(1000, 0, 1)
+x <- log(u/(1-u))
+hist(x, freq = F)
+```
