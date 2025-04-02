@@ -19,4 +19,4 @@ Note: problem sets will be updated with new questions following each class. Comp
 -   [Problem Set 5](weeks/hw/310_hw5.pdf): covers material from 3/10-3/13 and 3/24-3/26
     -   Due Saturday 3/29 at 11:59pm (note atypical due date)
 -   [Problem Set 6](weeks/hw/310_hw6.pdf): covers material from 3/28-4/04
-    -   Due 4/08 at 11:59pm
+    -   Due 4/09 at 11:59pm (note atypical due date)

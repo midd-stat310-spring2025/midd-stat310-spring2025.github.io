@@ -12,8 +12,7 @@ title: "Week 09"
 
 **Topics**
 
--   2D LoTUS
--   Covariance and correlation
+-   Joint distributions
 
 **Daily assignment**
 
@@ -37,7 +36,8 @@ To be completed and submitted to Canvas by 7:45am
 
 **Topics**
 
--   Bivariate normal
+-   2D LoTUS
+-   Covariance and correlation
 
 **Daily assignment**
 
@@ -52,7 +52,19 @@ To be completed and submitted to Canvas by 7:45am
 ------------------------------------------------------------------------
 
 ::: {style="color: #F66D7A"}
-### Friday (4/16)
+### Friday (4/18)
 :::
 
-No class or office hours due to Spring Symposium!
+**Topics**
+
+-   Bivariate normal
+
+**Daily assignment**
+
+To be completed and submitted to Canvas by 7:45am
+
+-   Daily assignment
+
+**Class activity**
+
+-   Class activity
