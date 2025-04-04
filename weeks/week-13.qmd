@@ -9,7 +9,6 @@ title: "Week 13"
 **Topics**
 
 -   Multivariate normal
--   Review
 
 **Daily assignment**
 

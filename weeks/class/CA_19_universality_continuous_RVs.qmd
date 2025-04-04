@@ -42,7 +42,7 @@ The different distributions in R all follow the same format: `d<dist>()` or `p<d
 runif(10, min = 0, max = 1)
 
 # X ~ Exp(2). What is f(1)?
-dexp(2)
+dexp(1, 2)
 
 # Obtain median of standard normal
 qnorm(0.5, 0, 1)
@@ -59,9 +59,6 @@ Sometimes it can be helpful to visualize the density of a distribution. There ar
 ```{r}
 # simulate lots and lots of Unif(1, 1.5) rvs
 sims <- runif(10000, min = 1, max = 1.5)
-
-# make a histogram of the simulations
-hist(x= sims, xlab = "x", main = "Histogram of Unif(1, 1.5) simulations")
 
 # turn y-axis into a density
 hist(x = sims,  xlab = "x", main = "Histogram of Unif(1, 1.5) simulations",
@@ -108,7 +105,6 @@ x_seq <- seq(0, 5, 0.01)
 f <- dexp(x_seq, rate = lambda)
 lines(x_seq, f, type = "l")
 ```
-
 
 ```{r echo = F, eval = F}
 # What if we didn't have access to the density function in R? No problem! We can make our own:

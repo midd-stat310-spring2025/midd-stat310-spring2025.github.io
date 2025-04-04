@@ -15,7 +15,8 @@ title: "Week 08"
 
 To be completed and submitted to Canvas by 7:45am
 
--   Daily assignment
+-   None! But the [attached PDF](daily/DA_20.pdf) contains the learning objectives for today's class.
+-   Maybe get a head start on reviewing power and Taylor series from Calc 2 for next class, by reviewing notes from previous semesters or watching [this video](https://expl.ai/EQDQEDX) (also linked in next daily assignment)
 
 **Class activity**
 
@@ -35,7 +36,7 @@ To be completed and submitted to Canvas by 7:45am
 
 To be completed and submitted to Canvas by 7:45am
 
--   Daily assignment
+-   [Daily assignment](daily/DA_21.pdf) (I don't suggest completing until after Monday's class, as content requires concepts from Monday!)
 
 **Class activity**
 
@@ -49,4 +50,4 @@ To be completed and submitted to Canvas by 7:45am
 
 *Last day to drop classes*
 
-**Sprint symposium! No class or office hours!**
+**Spring symposium! No class or office hours!**

@@ -63,3 +63,4 @@ To be completed and submitted to Canvas by 7:45am
 
 -   Live code posted after class
     -   `.Rmd` template for in-class activity: {{< downloadthis class/CA_19_universality_continuous_RVs.Rmd dname="universality" label="Rmd" id=mtcars-btn >}}
+    -   Filled in version: [Filled in code](class/CA_19_universality_continuous_RVs.qmd)
