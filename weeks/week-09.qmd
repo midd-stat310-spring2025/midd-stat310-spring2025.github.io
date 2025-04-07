@@ -57,7 +57,8 @@ To be completed and submitted to Canvas by 7:45am
 
 **Topics**
 
--   Bivariate normal
+-   Multinomial
+-   Multivariate normal
 
 **Daily assignment**
 

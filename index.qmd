@@ -7,12 +7,9 @@ Welcome to the website for Middlebury College's Spring 2025 MATH/STAT 310. On th
 
 ## Major Announcements
 
--   [Midterm](assessments/exam.qmd) is this Thursday, 4/3 from 7-9pm (Warner 105)
-    -   Practice problems released
--   Week 7 office hours:
-    -   Wednesday 3-4pm (extra)
-    -   Thursday 10-11am (extra)
-    -   Friday 11am-12pm (usual)
+-   Math & Stats pre-registration [dessert social](dessert_social.pdf)!
+    -   Monday 4/14 3:00-4:30pm in WNS 105
+    -   Come here about upcoming classes, receive advice, and eat dessert!
 -   Homework 6 due date pushed back one day to Wednesday, 4/09!
 
 ## Course Details
