@@ -18,7 +18,7 @@ title: "Week 09"
 
 To be completed and submitted to Canvas by 7:45am
 
--   Daily assignment
+-   [Daily assignment](daily/DA_22.pdf)
 
 **Class activity**
 
