@@ -36,8 +36,8 @@ To be completed and submitted to Canvas by 7:45am
 
 **Topics**
 
+-   Joint distributions (cont.)
 -   2D LoTUS
--   Covariance and correlation
 
 **Daily assignment**
 
@@ -57,8 +57,8 @@ To be completed and submitted to Canvas by 7:45am
 
 **Topics**
 
+-   Covariance and correlation
 -   Multinomial
--   Multivariate normal
 
 **Daily assignment**
 
