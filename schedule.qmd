@@ -56,3 +56,9 @@ A tentative high-level overview of the semester's topics are presented here. Top
 
 -   Moments
 -   MGFs
+
+### [Week 9](weeks/week-09.qmd)
+
+-   Joint distributions
+-   2D LoTUS
+-   Covariance
