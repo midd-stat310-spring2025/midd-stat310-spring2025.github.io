@@ -48,12 +48,12 @@ To be completed and submitted to Canvas by 7:45am
 :::
 
 ::: {style="color: purple"}
-**Quiz 2 this afternoon at 2:30pm!**
+**Quiz 2 in class! Plan to start at 8:30am?**
 :::
 
 **Topics**
 
--   Order statistics
+-   Quiz 2
 
 **Daily assignment**
 
@@ -61,4 +61,4 @@ To be completed and submitted to Canvas by 7:45am
 
 **Class activity**
 
--   Class activity
+-   None!
