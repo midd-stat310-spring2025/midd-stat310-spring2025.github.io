@@ -102,7 +102,7 @@
     "href": "index.html#major-announcements",
     "title": "Probability",
     "section": "Major Announcements",
-    "text": "Major Announcements\n\nOffice hours modification\n\nMonday 4/14: 1:30-2:30pm instead of 3:00-4:00pm (due to Dessert Social!)\n\nOr sneak into dessert social for a snack and some homework help\n\nTuesday 4/15: 2:30-3:30pm instead of 3:00-4:00pm (due to Faculty at Home talk)\n\nMath & Stats pre-registration dessert social!\n\nMonday 4/14 3:00-4:30pm in WNS 105\nCome here about upcoming classes, receive advice, and eat dessert!"
+    "text": "Major Announcements\n\nOffice hours modification\n\nTuesday 4/15: 2:30-3:30pm instead of 3:00-4:00pm (due to Faculty at Home talk)\n\nQuiz 2 next week (in class)"
   },
   {
     "objectID": "weeks/week-04.html",
@@ -165,7 +165,7 @@
     "href": "weeks/week-10.html",
     "title": "Week 10",
     "section": "",
-    "text": "Monday (4/21)\n\nTopics\n\nChange of variable (CDF method) recap\nChange of variable formula (1D and 2D)\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nNote the optional refresher video on change-of-variable from Calculus!\n\n\nClass activity\n\nClass activity\n\n\n\nWednesday (4/23)\n\nTopics\n\nBeta distribution\nGamma distribution\n\nDaily assignment\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nFriday (4/25)\n\n\nQuiz 2 this afternoon at 2:30pm!\n\nTopics\n\nOrder statistics\n\nDaily assignment\n\nNone!\n\nClass activity\n\nClass activity"
+    "text": "Monday (4/21)\n\nTopics\n\nChange of variable (CDF method) recap\nChange of variable formula (1D and 2D)\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nNote the optional refresher video on change-of-variable from Calculus!\n\n\nClass activity\n\nClass activity\n\n\n\nWednesday (4/23)\n\nTopics\n\nBeta distribution\nGamma distribution\n\nDaily assignment\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nFriday (4/25)\n\n\nQuiz 2 in class! Plan to start at 8:30am?\n\nTopics\n\nQuiz 2\n\nDaily assignment\n\nNone!\n\nClass activity\n\nNone!"
   },
   {
     "objectID": "exam.html#sec-midterm2",
@@ -340,7 +340,7 @@
     "href": "assessments/exam.html",
     "title": "Assessments",
     "section": "",
-    "text": "Thursday, April 3 from 7:00-9:00pm in WNS 105\nContent through March 26 is fair game (emphasis on content from Week 3 onward)\nYou are allowed one, single-sided note sheet (8.5x11 inches)\n\nYour note sheet cannot include any worked out examples/derivations\nI highly recommend you write out the PMFs (including supports), means, and variances for our named distributions. Some of them will most likely appear on the midterm and I will not provide their PMFs for you.\n\nNo homework due Week 7, but there will be a problem set due the following Tuesday (4/8)\n\n\n\n\n\nReview notes and homework, do the extra practice problems associated with each class\nExtra practice problems here (solutions shared on Canvas)\nCome to office hours!!\nMy personal working strategy:\n\nFirst review your notes\nMake a first draft of your note sheet, then do some practice problems using only your note sheet to see if what you wrote on it is actually useful for you\nMake a new note sheet\nRepeat as necessary"
+    "text": "Friday, 4/25 in class (tentative).\n\nContent after midterm through Wednesday 4/16 is fair game (continuous stuff through joint distributions and 2D-LoTUS)\nExpect it to be similar to Quiz 1 in length/difficulty\nYou will be provided a distribution sheet containing all the named distributions we’ve learned thus far (will share with you before the quiz)\nYou are allowed one, single-sided note sheet (8.5x11 inches)\n\nYour note sheet cannot include any worked out examples/derivations\n\nPractice problems shared over the weekend"
   },
   {
     "objectID": "schedule.html#spring-break",
@@ -439,5 +439,12 @@
     "title": "Continuous RVs and Universality of Uniform",
     "section": "Universality of Uniform / Probability Integral Transform",
     "text": "Universality of Uniform / Probability Integral Transform\nNow, let’s see the University of the Uniform in action! Suppose you’ve lost access to all the functions in R that allow you randomly generate rvs from all the named distribution except for the Uniform.\n\nExample 1\nHow can we simulate values from the \\(\\text{Exp}(2)\\) distribution?\n\n# generate lots of Unif(0,1) rvs\nu <- runif(10000, min = 0, max = 1)\n\n# use inverse CDF that we derived\nlambda <- 2\nx <- (-1/lambda) * log(1 - u)\n\n# let's visualize them:\nhist(x, xlab = \"x\", main = \"Exp(2) rvs\", freq = F)\n\n# let's add the following to to double check\nx_seq <- seq(0, 5, 0.01)\nf <- dexp(x_seq, rate = lambda)\nlines(x_seq, f, type = \"l\")\n\n\n\n\n\n\n\n\n\nExample 2\nSuppose we have a distribution whose PDF is \\[f_{X}(x) = \\frac{e^{-x}}{(1 + e^{-x})^2}\\]\nfor \\(x \\in (-\\infty, \\infty)\\).\nWrite code to simulate 1000 random variables from this distribution, and visualize them as a density histogram."
+  },
+  {
+    "objectID": "assessments/exam.html#midterm",
+    "href": "assessments/exam.html#midterm",
+    "title": "Assessments",
+    "section": "Midterm",
+    "text": "Midterm\n\nWhat and when\n\nThursday, April 3 from 7:00-9:00pm in WNS 105\nContent through March 26 is fair game (emphasis on content from Week 3 onward)\nYou are allowed one, single-sided note sheet (8.5x11 inches)\n\nYour note sheet cannot include any worked out examples/derivations\nI highly recommend you write out the PMFs (including supports), means, and variances for our named distributions. Some of them will most likely appear on the midterm and I will not provide their PMFs for you.\n\nNo homework due Week 7, but there will be a problem set due the following Tuesday (4/8)\n\n\n\nStudy tips\n\nReview notes and homework, do the extra practice problems associated with each class\nExtra practice problems here (solutions shared on Canvas)\nCome to office hours!!\nMy personal working strategy:\n\nFirst review your notes\nMake a first draft of your note sheet, then do some practice problems using only your note sheet to see if what you wrote on it is actually useful for you\nMake a new note sheet\nRepeat as necessary"
   }
 ]
