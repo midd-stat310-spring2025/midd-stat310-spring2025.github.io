@@ -8,14 +8,13 @@ title: "Week 10"
 
 **Topics**
 
--   Change of variable (CDF method) recap
--   Change of variable formula (1D and 2D)
+-   Change of variable formula (1D and general n-D)
 
 **Daily assignment**
 
 To be completed and submitted to Canvas by 7:45am
 
--   Daily assignment
+-   [Daily assignment](daily/DA_25.pdf) (a bit longer because the example is long; please plan accordingly)
     -   Note the optional refresher video on change-of-variable from Calculus!
 
 **Class activity**
