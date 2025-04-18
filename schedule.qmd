@@ -62,3 +62,8 @@ A tentative high-level overview of the semester's topics are presented here. Top
 -   Joint distributions
 -   2D LoTUS
 -   Covariance
+
+### [Week 10](weeks/week-10.qmd)
+
+-   Transformations of RVs (change of variable)
+-   Beta and gamma
