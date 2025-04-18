@@ -48,6 +48,7 @@ To be completed and submitted to Canvas by 7:45am
 **Class activity**
 
 -   [Class activity](class/CA_23.pdf)
+-   Note: [extra video](https://expl.ai/JUQYMQU) going through a few more joint distribution problems if you'd like more examples!
 
 ------------------------------------------------------------------------
 
@@ -68,4 +69,4 @@ To be completed and submitted to Canvas by 7:45am
 
 **Class activity**
 
--   Class activity
+-   [Class activity](class/CA_24.pdf)
