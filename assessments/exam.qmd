@@ -6,13 +6,15 @@ toc: true
 
 ## Quiz 2
 
-Friday, 4/25 **in class (tentative)**.
+Friday, 4/25 **in class (8:30am start)**.
 
 -   Content after midterm through Wednesday 4/16 is fair game (continuous stuff through joint distributions and 2D-LoTUS)
 
 -   Expect it to be similar to Quiz 1 in length/difficulty
 
--   You will be provided a distribution sheet containing all the named distributions we've learned thus far (will share with you before the quiz)
+-   You will be provided [this distribution sheet](distributions_310.pdf) containing all the named distributions we've learned thus far. There are some distributions that we have not yet learned as well.
+
+    -   Note, it does not contain MGFs!
 
 -   You are allowed one, single-sided note sheet (8.5x11 inches)
 
