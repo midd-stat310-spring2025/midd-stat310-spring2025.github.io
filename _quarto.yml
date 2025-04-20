@@ -15,7 +15,7 @@ website:
       - file: homework.qmd
         text: "Homework"
       - file: assessments/exam.qmd
-        text: "Assesments"
+        text: "Assessments"
     right:
       - icon: book-half
         href: https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view
