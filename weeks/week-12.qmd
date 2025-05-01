@@ -9,13 +9,12 @@ title: "Week 12"
 **Topics**
 
 -   Inequalities
--   Law of Large Numbers
 
 **Daily assignment**
 
 To be completed and submitted to Canvas by 7:45am
 
--   Daily assignment
+-   [Daily assignment](daily/DA_31.pdf)
 
 **Class activity**
 
@@ -29,7 +28,7 @@ To be completed and submitted to Canvas by 7:45am
 
 **Topics**
 
--   Central Limit Theorem!
+-   Law of Large Numbers!
 
 **Daily assignment**
 
@@ -49,7 +48,7 @@ To be completed and submitted to Canvas by 7:45am
 
 **Topics**
 
--   CLT continued!
+-   Central Limit Theorem!
 
 **Daily assignment**
 
