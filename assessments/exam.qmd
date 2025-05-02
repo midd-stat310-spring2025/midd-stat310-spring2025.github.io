@@ -4,6 +4,18 @@ sidebar: false
 toc: true
 ---
 
+## Final
+
+Office hours during finals weeks (tentative):
+
+-   Monday 4/12: 2-3pm
+
+-   Tuesday 4/13: 11am-12pm
+
+-   Wednesday 4/14: 2-4pm
+
+------------------------------------------------------------------------
+
 ## Quiz 2
 
 Friday, 4/25 **in class (8:30am start)**.

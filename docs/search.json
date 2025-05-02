@@ -102,7 +102,7 @@
     "href": "index.html#major-announcements",
     "title": "Probability",
     "section": "Major Announcements",
-    "text": "Major Announcements\n\nProf. Pete Schumer is giving a talk entitled: “An Introduction to Bell Numbers”\n\nThursday, May 1 from 3-4pm in WNS 101"
+    "text": "Major Announcements"
   },
   {
     "objectID": "weeks/week-04.html",
@@ -193,7 +193,7 @@
     "href": "weeks/week-12.html",
     "title": "Week 12",
     "section": "",
-    "text": "Monday (5/05)\n\nTopics\n\nInequalities\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nWednesday (5/07)\n\nTopics\n\nLaw of Large Numbers!\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nFriday (5/09)\n\nTopics\n\nCentral Limit Theorem!\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity"
+    "text": "Monday (5/05)\n\nTopics\n\nInequalities\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment (last one!)\n\nClass activity\n\nClass activity\n\n\n\nWednesday (5/07)\n\nTopics\n\nLaw of Large Numbers!\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity\n\n\n\nFriday (5/09)\n\nTopics\n\nCentral Limit Theorem!\n\nDaily assignment\nTo be completed and submitted to Canvas by 7:45am\n\nDaily assignment\n\nClass activity\n\nClass activity"
   },
   {
     "objectID": "weeks/week-13.html",
@@ -340,7 +340,7 @@
     "href": "assessments/exam.html",
     "title": "Assessments",
     "section": "",
-    "text": "Friday, 4/25 in class (8:30am start).\n\nContent after midterm through Wednesday 4/16 is fair game (continuous stuff through joint distributions and 2D-LoTUS)\nExpect it to be similar to Quiz 1 in length/difficulty\nYou will be provided this distribution sheet containing all the named distributions we’ve learned thus far. There are some distributions that we have not yet learned as well.\n\nNote, it does not contain MGFs!\n\nYou are allowed one, single-sided note sheet (8.5x11 inches)\n\nYour note sheet cannot include any worked out examples/derivations\n\nPractice problems here"
+    "text": "Office hours during finals weeks (tentative):\n\nMonday 4/12: 2-3pm\nTuesday 4/13: 11am-12pm\nWednesday 4/14: 2-4pm"
   },
   {
     "objectID": "schedule.html#spring-break",
@@ -446,5 +446,12 @@
     "title": "Assessments",
     "section": "Midterm",
     "text": "Midterm\n\nWhat and when\n\nThursday, April 3 from 7:00-9:00pm in WNS 105\nContent through March 26 is fair game (emphasis on content from Week 3 onward)\nYou are allowed one, single-sided note sheet (8.5x11 inches)\n\nYour note sheet cannot include any worked out examples/derivations\nI highly recommend you write out the PMFs (including supports), means, and variances for our named distributions. Some of them will most likely appear on the midterm and I will not provide their PMFs for you.\n\nNo homework due Week 7, but there will be a problem set due the following Tuesday (4/8)\n\n\n\nStudy tips\n\nReview notes and homework, do the extra practice problems associated with each class\nExtra practice problems here (solutions shared on Canvas)\nCome to office hours!!\nMy personal working strategy:\n\nFirst review your notes\nMake a first draft of your note sheet, then do some practice problems using only your note sheet to see if what you wrote on it is actually useful for you\nMake a new note sheet\nRepeat as necessary"
+  },
+  {
+    "objectID": "assessments/exam.html#quiz-2",
+    "href": "assessments/exam.html#quiz-2",
+    "title": "Assessments",
+    "section": "Quiz 2",
+    "text": "Quiz 2\nFriday, 4/25 in class (8:30am start).\n\nContent after midterm through Wednesday 4/16 is fair game (continuous stuff through joint distributions and 2D-LoTUS)\nExpect it to be similar to Quiz 1 in length/difficulty\nYou will be provided this distribution sheet containing all the named distributions we’ve learned thus far. There are some distributions that we have not yet learned as well.\n\nNote, it does not contain MGFs!\n\nYou are allowed one, single-sided note sheet (8.5x11 inches)\n\nYour note sheet cannot include any worked out examples/derivations\n\nPractice problems here"
   }
 ]
