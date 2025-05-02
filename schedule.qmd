@@ -72,3 +72,9 @@ A tentative high-level overview of the semester's topics are presented here. Top
 
 -   Conditional expectation
 -   Conditional variance
+
+### [Week 12](weeks/week-12.qmd)
+
+-   Inequalities
+-   Law of Large Numbers
+-   Central Limit Theorem!
