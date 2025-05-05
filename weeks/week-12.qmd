@@ -30,12 +30,6 @@ To be completed and submitted to Canvas by 7:45am
 
 -   Law of Large Numbers!
 
-**Daily assignment**
-
-To be completed and submitted to Canvas by 7:45am
-
--   Daily assignment
-
 **Class activity**
 
 -   Class activity
@@ -49,12 +43,7 @@ To be completed and submitted to Canvas by 7:45am
 **Topics**
 
 -   Central Limit Theorem!
-
-**Daily assignment**
-
-To be completed and submitted to Canvas by 7:45am
-
--   Daily assignment
+-   CRFs?
 
 **Class activity**
 
