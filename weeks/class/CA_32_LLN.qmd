@@ -1,0 +1,144 @@
+---
+title: "Law of Large Numbers"
+format: pdf
+---
+
+```{r message= F, echo = F, warning = F}
+library(tidyverse)
+library(patchwork)
+```
+
+# Coin flips
+
+$X_{1}, X_{2},\ldots$ are IID $\text{Bern}(1/4)$ random variables, where $X_{i}$ is indicator of Heads. Then $\bar{X}_{n}$ is the proportion of Heads in our $n$ tosses.
+
+The WLLN tells us that as $n$ increases, then for any $\epsilon > 0$, the probability that $\bar{X}_{n}$ is more than $\epsilon$ away from its mean of $1/4$ can be made arbitrarily small. 
+
+In the following plot, we simulate 5 different running means, represented by the colors of the lines. The dashed horizontal bands represent varying $\epsilon$.
+
+```{r echo = F}
+set.seed(20)
+B <- 1500
+J <- 5
+p <- 0.25
+props <- matrix(NA, nrow = B, ncol = J )
+for(j in 1:J){
+  x <- rbinom(B, 1, p)
+  for(b in 1:B){
+    props[b,j] <- mean(x[1:b])
+  }
+}
+
+data.frame(props) |>
+  mutate(n = row_number()) |>
+  pivot_longer(cols = 1:5, names_to = "sim", values_to = "prop") |>
+  ggplot(aes(x = n, y = prop, col = sim)) +
+  geom_line() +
+  geom_hline(yintercept = p + 0.1, linetype = "dashed", col = "lightgrey")+
+  geom_hline(yintercept = p - 0.1, linetype = "dashed", col = "lightgrey") +
+  geom_hline(yintercept = p + 0.05, linetype = "dashed", col = "gray60")+
+  geom_hline(yintercept = p - 0.05, linetype = "dashed", col = "gray60") +
+  geom_hline(yintercept = p + 0.01, linetype = "dashed", col = "grey25")+
+  geom_hline(yintercept = p - 0.01, linetype = "dashed", col = "gray25") +
+  # geom_hline(yintercept = p, linetype = "dashed", col = "darkgrey") +
+  theme_minimal() +
+  labs(x = "n = number of flips", y = "Running proportion of Heads") +
+  guides(col = "none") 
+```
+
+# Monte carlo integration
+
+## Estimating Beta probability
+
+```{r echo = F}
+alpha <- 3
+beta <- 9
+b <- 0.2
+a <- 0.1
+c <- 4
+```
+
+Suppose $X \sim \text{Beta}(`r alpha`, `r beta`)$ and I want to approximate $P(`r a` < X < `r b`)$ (i.e. the shaded area below). I know I can evaluate the function/PDF of $X$ using `dbeta()` or by hand, but suppose I do not have access to `pbeta()` for probabilities. 
+
+```{r echo = F, fig.height=2, fig.width=5}
+df <- data.frame(x = c(a, a, b, a),
+                      xend = c(a, b, b,b),
+                      y = c(0, 
+                            c, 0,0),
+                      yend = c(c,c,c,0))
+funcShaded <- function(x, lower_bound = -Inf, upper_bound = Inf) {
+    y = dbeta(x, alpha, beta)
+    y[x < lower_bound] <- NA
+    y[x > upper_bound] <- NA
+    return(y)
+}
+p1 <- ggplot() +
+  geom_function(fun = dbeta, args = list(alpha, beta)) +
+  theme_minimal() +
+  stat_function(fun = funcShaded, args = list(lower_bound = a, upper_bound = b),  geom = "area", fill = "#84CA72", alpha = .8) + 
+  labs(x = "x", y = "f(x)", subtitle = paste0("Beta(", alpha, ", ", beta, ")")) 
+  
+p2 <- p1 + 
+  geom_segment(data = df, aes(x= x, xend = xend, y = y, yend = yend), linetype = "dashed") +
+  xlim(c(0,1))
+p2
+```
+
+Monte Carlo will help us! We have to come up with a bounding region to sample uniform points from. Well, we want $x \in (`r a`, `r b`)$. For the y-axis, we see that any $c$ greater than roughly 3.25 will do the trick. We will use $c = `r c`$. Our bounding rectangle is depicted above.
+
+```{r echo = T, eval = T}
+# simulate uniformly within bounding rectangle
+set.seed(1)
+B <- 5000
+x <- runif(B, 0.1, 0.2)
+y <- runif(B, 0, 4)
+
+# obtain proportion that fall into area under curve
+under <- mean(y <= dbeta(x, 3, 9))
+
+# multiply by bounding rectangle area 
+mc_approx <- under * 4 * (0.2 - 0.1)
+```
+
+So our Monte Carlo approximation to the integral is `r mc_approx`.
+
+Suppose we suddenly have access to the CDF function `pbeta()`! Let's compare our MC approximation to the truth:
+
+```{r}
+pbeta(0.2, 3, 9) - pbeta(0.1, 3, 9)
+```
+
+## Estimating $pi$
+
+```{r}
+set.seed(10)
+
+# choose area of circle/dart board
+r <- 3
+
+# sample uniformly within square
+n <- 10000
+x <- runif(n, -r, r)
+y <- runif(n, -r, r)
+
+# determine which points are in the circle
+in_circle <- x^2 + y^2 <= r^2
+
+# mc approximation
+mc_pi <- 4 * sum(in_circle)/n
+```
+
+```{r echo = F, fig.width=2, fig.height=2}
+data.frame(x, y, in_circle) |>
+  ggplot(aes(x = x, y = y, col = in_circle)) +
+  geom_point(size = 0.01) +
+  guides(col = "none") +
+  theme_bw()+
+  scale_x_continuous(limits = c(-r, r), expand = c(0,0)) +
+  scale_y_continuous(limits = c(-r, r), expand = c(0,0))  +
+  theme(axis.ticks = element_blank(), axis.title = element_blank(),
+        axis.text = element_blank())
+```
+
+
+Our estimate of $\pi$ is `r mc_pi`, which is pretty good!

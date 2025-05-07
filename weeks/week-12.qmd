@@ -32,6 +32,7 @@ To be completed and submitted to Canvas by 7:45am
 
 **Class activity**
 
+-   [Code and plots](class/CA_32_LLN.qmd) for LLN and MC integration
 -   Class activity
 
 ------------------------------------------------------------------------
