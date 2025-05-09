@@ -13,7 +13,12 @@ toc: true
 -   The final is cumulative, with emphasis on material from last third of the course
 -   You are allowed a one double-sided note sheet (8.5x11 inches). Once again, no worked-out examples allowed!
 -   **If it is to your advantage, your score on the final exam will replace the lowest score among {Quiz 1, Midterm, Quiz 2}**
--   Many practice problems posted shortly
+-   Many practice problems posted [here](final_practice_problems.pdf)!
+    -   I suggest first reviewing your notes before attempting these problems!
+
+    -   ::: {style="color: purple"}
+        These problems are not exhaustive!!
+        :::
 
 ------------------------------------------------------------------------
 
