@@ -8,7 +8,7 @@ title: "Week 13"
 
 **Topics**
 
--   Multivariate normal
+-   CLT (cont.)
 
 **Daily assignment**
 

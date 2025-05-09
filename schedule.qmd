@@ -78,3 +78,7 @@ A tentative high-level overview of the semester's topics are presented here. Top
 -   Inequalities
 -   Law of Large Numbers
 -   Central Limit Theorem!
+
+### [Week 13](weeks/week-13.qmd)
+
+-   CLT cont.

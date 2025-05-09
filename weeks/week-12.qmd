@@ -33,7 +33,6 @@ To be completed and submitted to Canvas by 7:45am
 **Class activity**
 
 -   [Code and plots](class/CA_32_LLN.qmd) for LLN and MC integration
--   Class activity
 
 ------------------------------------------------------------------------
 
@@ -44,8 +43,8 @@ To be completed and submitted to Canvas by 7:45am
 **Topics**
 
 -   Central Limit Theorem!
--   CRFs?
+-   CRFs
 
 **Class activity**
 
--   Class activity
+-   [Plot](class/CA_33_CLT.qmd) for CLT demo

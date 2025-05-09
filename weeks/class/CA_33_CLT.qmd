@@ -1,0 +1,58 @@
+---
+title: "Central Limit Theorem"
+format: pdf
+editor_options: 
+  chunk_output_type: console
+---
+
+# Coin flips
+
+$X_{1}, X_{2},\ldots$ are IID $\text{Bern}(1/4)$ random variables, where $X_{i}$ is indicator of Heads. Then $\bar{X}_{n}$ is the proportion of Heads in our $n$ tosses.
+
+We will see the CLT approximation to $\bar{X}_{n}$ and $\sum_{i=1}^{n} X_{i}$ as $n$ increases from 5 through 500. Remember, CLT tells us that
+
+$$
+\bar{X}_{n} \overset{\cdot}{\sim} N\left(0.25, \frac{0.25(0.75)}{n}\right) \qquad \text{ and } \qquad  \sum_{i=1}^{n} X_{i} \overset{\cdot}{\sim} N\left(0.25 n, 0.25(0.75)n \right)
+$$
+
+```{r echo = F, message = F, fig.align="center"}
+library(tidyverse)
+set.seed(20)
+B <- 300
+J <- 500
+p <- 0.25
+n_vec <- c(5,10, 20,50, 100, 200, B)
+N <- length(n_vec)
+props <- matrix(NA, nrow = N, ncol = J )
+for(j in 1:J){
+  x <- rbinom(B, 1, p)
+  for(i in 1:N){
+    props[i,j] <- mean(x[1:n_vec[i]])
+  }
+}
+
+plot_ls <- list()
+for(n in 1:N){
+  plot_ls[[n]] <- data.frame(xbar = props[n,], 
+             n = n_vec[n],
+             sum_x = props[n,]*n_vec[n])
+}
+
+vls <- data.frame(vals = c(n_vec * p, rep(p, N)),
+           RV = c(rep("sum_x", N), rep("xbar", N)),
+           n = factor(rep(n_vec, 2)))
+do.call(rbind, plot_ls) |>
+  mutate(n = factor(n)) |>
+  pivot_longer(cols = c(xbar, sum_x), names_to = "RV",
+               values_to = "vals") |>
+  ggplot(aes(x = vals)) +
+  geom_histogram(bins = 40) +
+  geom_vline(data = vls, aes(xintercept = vals), col = "orange") +
+    facet_grid(n ~ RV, scales = "free")  +
+  theme_minimal() +
+  labs(x = "Values")+
+  theme(axis.title.y = element_blank(),
+        axis.text.y = element_blank())
+
+
+```
