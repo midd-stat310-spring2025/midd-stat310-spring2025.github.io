@@ -13,6 +13,22 @@ toc: true
 -   The final is cumulative, with emphasis on material from last third of the course
 -   You are allowed a one double-sided note sheet (8.5x11 inches). Once again, no worked-out examples allowed!
 -   **If it is to your advantage, your score on the final exam will replace the lowest score among {Quiz 1, Midterm, Quiz 2}**
+
+### Topics
+
+-   **Counting**: multiplication rule, permutations and combinations, sampling with versus without replacement when order does/doesn't matter
+-   **Basic probability**: sample spaces, events, naive probability, axioms, unions, intersections, complements, inclusion-exclusion, independence of events
+-   **Conditional probability**: definition and meaning, Bayes' rule and theorem, LoTP, conditional independence
+-   **Random variables**: definitions and interpretations, stories, discrete vs continuous, distributions, PMFs, CDFs, PDFs, MGFs, function of RV, indicators, memoryless of Exponential, universality of Uniform, Poisson approximation, location-scale transform of Normal and Uniform
+    -   Feeling comfortable with all our named distributions
+-   **Moments**: expectation and its properties, fundamental bridge, variance and its properties, standard deviation, covariance and correlation, LoTUS, moments from MGFs
+-   **Joint distributions**: joint, conditional, and marginal distributions, independence, change of variables, finding dist. of min/max
+-   **Conditional expectation**: definition and meaning, properties, Adam's and Eve's Laws
+-   **Inequalities and theorems**: Markov, Chebshev, WLLN, CLT
+-   **Connections between distributions** and their derivations: e.g. sum of independent Normals, sum of independent Poissons, sum of Exponentials, Bank-Post office, chicken-egg, etc.
+
+### Practice problems
+
 -   Many practice problems posted [here](final_practice_problems.pdf)!
     -   I suggest first reviewing your notes before attempting these problems!
 

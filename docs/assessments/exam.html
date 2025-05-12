@@ -126,7 +126,11 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#final" id="toc-final" class="nav-link active" data-scroll-target="#final">Final</a></li>
+  <li><a href="#final" id="toc-final" class="nav-link active" data-scroll-target="#final">Final</a>
+  <ul class="collapse">
+  <li><a href="#topics" id="toc-topics" class="nav-link" data-scroll-target="#topics">Topics</a></li>
+  <li><a href="#practice-problems" id="toc-practice-problems" class="nav-link" data-scroll-target="#practice-problems">Practice problems</a></li>
+  </ul></li>
   <li><a href="#quiz-2" id="toc-quiz-2" class="nav-link" data-scroll-target="#quiz-2">Quiz 2</a></li>
   <li><a href="#midterm" id="toc-midterm" class="nav-link" data-scroll-target="#midterm"><strong>Midterm</strong></a>
   <ul class="collapse">
@@ -166,6 +170,27 @@ ul.task-list li input[type="checkbox"] {
 <li>The final is cumulative, with emphasis on material from last third of the course</li>
 <li>You are allowed a one double-sided note sheet (8.5x11 inches). Once again, no worked-out examples allowed!</li>
 <li><strong>If it is to your advantage, your score on the final exam will replace the lowest score among {Quiz 1, Midterm, Quiz 2}</strong></li>
+</ul>
+<section id="topics" class="level3">
+<h3 class="anchored" data-anchor-id="topics">Topics</h3>
+<ul>
+<li><strong>Counting</strong>: multiplication rule, permutations and combinations, sampling with versus without replacement when order does/doesn’t matter</li>
+<li><strong>Basic probability</strong>: sample spaces, events, naive probability, axioms, unions, intersections, complements, inclusion-exclusion, independence of events</li>
+<li><strong>Conditional probability</strong>: definition and meaning, Bayes’ rule and theorem, LoTP, conditional independence</li>
+<li><strong>Random variables</strong>: definitions and interpretations, stories, discrete vs continuous, distributions, PMFs, CDFs, PDFs, MGFs, function of RV, indicators, memoryless of Exponential, universality of Uniform, Poisson approximation, location-scale transform of Normal and Uniform
+<ul>
+<li>Feeling comfortable with all our named distributions</li>
+</ul></li>
+<li><strong>Moments</strong>: expectation and its properties, fundamental bridge, variance and its properties, standard deviation, covariance and correlation, LoTUS, moments from MGFs</li>
+<li><strong>Joint distributions</strong>: joint, conditional, and marginal distributions, independence, change of variables, finding dist. of min/max</li>
+<li><strong>Conditional expectation</strong>: definition and meaning, properties, Adam’s and Eve’s Laws</li>
+<li><strong>Inequalities and theorems</strong>: Markov, Chebshev, WLLN, CLT</li>
+<li><strong>Connections between distributions</strong> and their derivations: e.g.&nbsp;sum of independent Normals, sum of independent Poissons, sum of Exponentials, Bank-Post office, chicken-egg, etc.</li>
+</ul>
+</section>
+<section id="practice-problems" class="level3">
+<h3 class="anchored" data-anchor-id="practice-problems">Practice problems</h3>
+<ul>
 <li>Many practice problems posted <a href="final_practice_problems.pdf">here</a>!
 <ul>
 <li><p>I suggest first reviewing your notes before attempting these problems!</p></li>
@@ -175,6 +200,7 @@ ul.task-list li input[type="checkbox"] {
 </ul></li>
 </ul>
 <hr>
+</section>
 </section>
 <section id="quiz-2" class="level2">
 <h2 class="anchored" data-anchor-id="quiz-2">Quiz 2</h2>
